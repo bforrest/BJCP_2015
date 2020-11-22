@@ -3,7 +3,10 @@ from os import lseek
 import zipfile
 import re
 import xml.dom.minidom
+import codecs
 
+
+os.chdir('./SourceData')
 
 document = zipfile.ZipFile('./2015_Guidelines_Beer.docx')
 
@@ -26,9 +29,11 @@ with open('pretty.xml', 'w') as f:
 text_list = re.findall(
     '(?<=<w:t>)(.*?)(?=<\/w:t>)', kill_whitespace)[1:]
 
-# f = open("just-the-text.txt", "w")
-# f.write(text_list)
-# f.close()
-# f.open("just-the-text.txt")
-# print(f.read())
-print(text_list)
+f = open('just-the-text.txt', 'w')
+f.write(codecs.BOM_UTF8)
+for item in text_list:
+    f.write(item.encode('utf-8') + '\n')
+f.close()
+g = open('just-the-text.txt')
+print(g.read())
+# print(text_list)

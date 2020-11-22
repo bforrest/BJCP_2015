@@ -12,7 +12,7 @@
 
 **Flavor:** Relatively neutral palate with a crisp and dry finish and a low to very low grainy or corn-like flavor that might be perceived as sweetness due to the low bitterness. Hop flavor ranges from none to low levels, and can have a floral, spicy, or herbal quality (although rarely strong enough to detect). Low to very low hop bitterness. Balance may vary from slightly malty to slightly bitter, but is relatively close to even. High levels of carbonation may accentuate the crispness of the dry finish. Clean lager fermentation character.
 
-**Mouthfeel:** Very light (sometimes watery) body. Very highly carbonated with slight carbonic bite on the tongue.
+**Mouthfeel:** Very light (sometimes watery) body. Very highly carbonated with slight carbonic bite on the tongue.AMBER BITTER EUROPEAN BEER
 
 **Comments:** Designed to appeal to as broad a range of the general public as possible. Strong flavors are a fault.
 

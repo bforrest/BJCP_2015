@@ -1,0 +1,9 @@
+{
+    "categories": [
+        {
+            "Category": "Standard American Beer",
+            "id": 1,
+            "uri": "https://dev.bjcp.org/style/2015/1/"
+        },
+    ]
+}
