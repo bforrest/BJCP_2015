@@ -14,11 +14,21 @@ document.close()
 
 text_re = re.compile('>\n\s+([^<>\s].*?)\n\s+</', re.DOTALL)
 prettyXml = text_re.sub('>\g<1></', uglyXml)
+kill_whitespace = prettyXml.replace(' xml:space="preserve"', '')
 
 with open('pretty.xml', 'w') as f:
-    f.write(prettyXml.encode('utf8'))
+    # f.write(prettyXml)
+    f.write(kill_whitespace.encode('utf8'))
 
-print(prettyXml)
+# print(prettyXml)
 
-text_list = re.findall('(?:<w:t[^>]+>)(.*?)(?=<\/w:t>)', prettyXml)[1:]
+
+text_list = re.findall(
+    '(?<=<w:t>)(.*?)(?=<\/w:t>)', kill_whitespace)[1:]
+
+# f = open("just-the-text.txt", "w")
+# f.write(text_list)
+# f.close()
+# f.open("just-the-text.txt")
+# print(f.read())
 print(text_list)
