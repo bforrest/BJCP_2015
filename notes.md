@@ -66,7 +66,7 @@ The strucutre looks like this:
   </div>
    <div class="vital-statistics"><h2>Vital Statistics</h2>
     <div class="table">
-        <div class="row">
+        <div class="row"> 
             <div class="cell">
               <h3>IBU</h3></div><div class="cell"><p>60 - 120</p></div></div>
               <div class="row"><div class="cell"><h3>SRM</h3></div><div class="cell"><p>6 - 14</p></div></div>
