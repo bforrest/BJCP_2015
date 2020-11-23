@@ -1,62 +1,82 @@
 import os
+import sys
 import glob
+import json
+import re
 from bs4 import BeautifulSoup
 
 os.chdir('./dev.bjcp.org')
 
-# data = [f for f in glob.glob("*.html")]
 
-# for datum in data:
-#     print(datum)
-
-with open('category-21.html', 'r') as file:
-    content = file.read()
-    broth = BeautifulSoup(content, 'lxml')
-    # tags within the page for style content.
-    articles = broth.findAll('article')
-
-    categoryTag = articles[0]
-    header = categoryTag.find('h1')
-    category = header.text
-    description = categoryTag.find('p').text
-    # first one is a category description
-    print(category)
-    print(description)
-
-    top = len(articles)
-    for substyle in range(1, top):
-        style = articles[substyle].find('h1').text
-
-        impression = get_content(articles[substyle], 'overall-impression)
-
-        appearance = articles[substyle].find(
-            'div', {'class': 'appearance'}).text
-        aroma = articles[substyle].find('div', {'class': 'aroma'}).text
-        flavor = articles[substyle].find('div', {'class': 'flavor'}).text
-        mouthfeel = articles[substyle].find('div', {'class': 'mouthfeel'}).text
-        comments = articles[substyle].find('div', {'class': 'comments'}).text
-        comparison = articles[substyle].find(
-            'div', {'class': 'style-comparison'}).text
-        history = articles[substyle].find('div', {'class': 'history'}).text
-        ingredients = articles[substyle].find(
-            'div', {'class': 'ingredients'}).text
-        statistics = articles[substyle].find(
-            'div', {'class': 'vital-statistics'}).text
-        commercial = articles[substyle].find(
-            'div', {'class': 'commercial-examples'}).text
-        attributes = articles[substyle].find(
-            'div', {'class': 'style-attributes'}).text
-
-        print('style %s' % style)
-        myStyle = {'name': style, 'impression': impression}
-        print(myStyle)
-# articles = broth.findAll('article')
-
-
-def get_content(ResultSet domset, className):
+def get_content(domset, className):
+    content = ''
     try:
-        return = domset.find(
-            'div', {'class': 'overall-impression'}).text
-    catch ValueError:
+        content = domset.find(
+            'div', {'class': className}).text
+    except AttributeError:
+        print('attribute error')
+    except RuntimeError:
         print('classname %s not found' % className)
-        return
+
+    return content
+
+
+def parse_file(filename):
+    with open(filename, 'r') as file:
+        content = file.read()
+        broth = BeautifulSoup(content, 'lxml')
+        articles = broth.findAll('article')
+
+        categoryTag = articles[0]
+        header = categoryTag.find('h1')
+        category = header.text.strip('\t\n')
+        description = get_content(categoryTag, 'entry-content')
+        # first one is a category description
+        print(category)
+        print(description)
+
+        top = len(articles)
+        for substyle in range(1, top):
+            style = articles[substyle].find('h1').text.strip('\t\n')
+            impression = get_content(articles[substyle], 'overall-impression')
+            appearance = get_content(articles[substyle], 'appearance')
+            aroma = get_content(articles[substyle], 'aroma')
+            flavor = get_content(articles[substyle], 'flavor')
+            mouthfeel = get_content(articles[substyle], 'mouthfeel')
+            comments = get_content(articles[substyle], 'comments')
+            comparison = get_content(articles[substyle], 'style-comparison')
+            history = get_content([substyle], 'history')
+            ingredients = get_content(articles[substyle], 'ingredients')
+            statistics = get_content(articles[substyle], 'vital-statistics')
+            commercial = get_content(articles[substyle], 'commercial-examples')
+            attributes = get_content(articles[substyle], 'style-attributes')
+
+            print('style %s' % style)
+            myStyle = {'name': style,
+                       'category': category,
+                       'entry-content': description,
+                       'impression': impression,
+                       'appearance': appearance,
+                       'aroma': aroma,
+                       'flavor': flavor,
+                       'mouthfeel': mouthfeel,
+                       'comments': comments,
+                       'comparison': comparison,
+                       'history': history,
+                       'ingredients': ingredients,
+                       'statistics': statistics,
+                       'commercial': commercial,
+                       'attributes': attributes
+                       }
+            path = '/Users/Barry/Projects/BeerStyles/BJCP_2015/json-data/%s.json' % style
+            fj = open(path, 'w')
+            j = json.dump(myStyle, fj,  sort_keys=False, indent=4)
+            print(j)
+
+
+data = [f for f in glob.glob("*.html")]
+
+for datum in data:
+    print(datum)
+    parse_file(datum)
+# pass dom-set and class name, get the inner-text
