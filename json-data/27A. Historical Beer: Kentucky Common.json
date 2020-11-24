@@ -1,0 +1,65 @@
+{
+    "impression": "Overall ImpressionA darker-colored, light-flavored, malt-accented beer with a dry finish and interesting character malt flavors. Refreshing due to its high carbonation and mild flavors, and highly sessionable due to being served very fresh and with restrained alcohol levels.\n",
+    "appearance": "Amber-orange to light brown in color. Typically clear, but may have some light haze due to limited conditioning. Foam stand may not be long lasting, and is usually white to beige in color.",
+    "aroma": "Low to medium grainy, corn-like or sweet maltiness with a low toast, biscuity-grainy, bready, or caramel malt accent. Medium to moderately-low hop aroma, usually floral or spicy in character. Clean fermentation character, with possible faint berry ester. Low levels of DMS are acceptable. No sourness. Malt-forward in the balance.",
+    "flavor": "FlavorModerate grainy-sweet maltiness with low to medium-low caramel, toffee, bready, and/or biscuity notes. Generally light palate flavors typical of adjunct beers; a low grainy, corn-like sweetness is common. Medium to low floral or spicy hop flavor. Medium to low hop bitterness, which should neither be coarse nor have a harsh aftertaste. May exhibit light fruitiness. Balance in the finish is towards the malt. May have a lightly flinty or minerally-sulfate flavor in the finish. The finish is fairly dry, including the contributions of roasted grains and minerals. No sourness.\n",
+    "mouthfeel": "MouthfeelMedium to medium-light body with a relatively soft mouthfeel. Highly carbonated. Can have a creamy texture.\n",
+    "comments": "Modern characterizations of the style often mention a lactic sourness or sour mashing, but extensive brewing records from the larger breweries at the turn of the century have no indication of long acid rests, sour mashing, or extensive conditioning. This is likely a modern homebrewer invention, based on the supposition that since indigenous Bourbon distillers used a sour mash, beer brewers must also have used this process. No contemporaneous records indicate sour mashing or that the beer had a sour profile; rather the opposite, that the beer was brewed as an inexpensive, present-use ale. Enter soured versions in American Wild Ale.",
+    "comparison": "Style ComparisonLike a darker-colored cream ale emphasizing corn, but with some light character malt flavor. Malt flavors and balance are probably closest to modern adjunct-driven international amber or dark lagers, Irish red ales, or Belgian pale ales.\n",
+    "history": "HistoryA true American original style, Kentucky Common was almost exclusively produced and sold around the Louisville Kentucky metropolitan area from some time after the Civil War up to Prohibition. Its hallmark was that it was inexpensive and quickly produced, typically 6 to 8 days from mash to delivery. The beer was racked into barrels while actively fermenting (1.020 \u2013 1.022) and tightly bunged to allow carbonation in the saloon cellar. There is some speculation that it was a variant of the lighter common or cream ale produced throughout much of the East prior to the Civil War and that the darker grains were added by the mostly Germanic brewers to help acidify the typical carbonate water of the Louisville area, or that they had a preference for darker colored beers. Up until the late 19th century, Kentucky Common was not brewed in the summer months unless cellars, usually used for malting, were used for fermentation. With the advent of ice machines, the larger breweries were able to brew year round. In the period from 1900 to prohibition, about 75% of the beer sold in the Louisville area was Kentucky Common. With prohibition, the style died completely as the few larger breweries that survived were almost exclusively lager producers.\n",
+    "ingredients": "Characteristic IngredientsSix-row barley malt was used with 35% corn grits to dilute the excessive protein levels along with 1 to 2% each caramel and black malt. Native American hops, usually about .2 pounds per barrel of Western hops for bittering and a similar amount of New York hops (such as Clusters) for flavor (15 minutes prior to knock out). Imported continental Saazer-type hops (.1 pounds per barrel) were added at knock out for aroma. Water in the Louisville area was typically moderate to high in carbonates. Mash water was often pre-boiled to precipitate the carbonate and Gypsum was commonly added. Considering the time from mash in to kegging for delivery was typically 6 to 8 days, clearly aggressive top-fermenting yeasts was used.\n",
+    "statistics": [
+        {
+            "stat": "IBU",
+            "value": "15 - 30"
+        },
+        {
+            "stat": "SRM",
+            "value": "11 - 20"
+        },
+        {
+            "stat": "OG",
+            "value": "1.044 - 1.055"
+        },
+        {
+            "stat": "FG",
+            "value": "1.010 - 1.018"
+        },
+        {
+            "stat": "ABV",
+            "value": "4% - 5.5%"
+        }
+    ],
+    "commercial": "Commercial Examples Apocalypse Brew Works Ortel\u2019s 1912. ",
+    "attributes": [
+        {
+            "tag": "amber-color",
+            "link": "https://dev.bjcp.org/style-tags/amber-color/"
+        },
+        {
+            "tag": "balanced",
+            "link": "https://dev.bjcp.org/style-tags/balanced/"
+        },
+        {
+            "tag": "historical-style",
+            "link": "https://dev.bjcp.org/style-tags/historical-style/"
+        },
+        {
+            "tag": "north-america",
+            "link": "https://dev.bjcp.org/style-tags/north-america/"
+        },
+        {
+            "tag": "standard-strength",
+            "link": "https://dev.bjcp.org/style-tags/standard-strength/"
+        },
+        {
+            "tag": "top-fermented",
+            "link": "https://dev.bjcp.org/style-tags/top-fermented/"
+        }
+    ],
+    "name": "27A. Historical Beer: Kentucky Common ",
+    "id": "27A",
+    "categoryId": "27",
+    "category": "27. Historical Beer ",
+    "entry-content": "\nThe Historical Beer category contains styles that either have all but died out in modern times, or that were much more popular in past times and are known only through recreations. This category can also be used for traditional or indigenous beers of cultural importance within certain countries. Placing a beer in the historical category does not imply that it is not currently being produced, just that it is a very minor style or perhaps is in the process of rediscovery by craft brewers.\nEntry InstructionsThe entrant must either specify a style with a BJCP-supplied description from the list below, or specify a different historical beer style that is not described elsewhere in these guidelines. In the case of a style that has changed substantially over the years (such as Porter or Stout), the entrant may specify an existing BJCP style as well as an era (e.g., 1820 English Porter). When the entrant specifies any style not on the BJCP-supplied list, the entrant must provide a description of the style for the judges in sufficient detail to allow the beer to be judged. If a beer is entered with just a style name and no description, it is very unlikely that judges will understand how to judge it.\n\n"
+}

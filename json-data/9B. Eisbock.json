@@ -1,0 +1,73 @@
+{
+    "impression": "Overall ImpressionA strong, full-bodied, rich, and malty dark German lager often with a viscous quality and strong flavors. Even though flavors are concentrated, the alcohol should be smooth and warming, not burning.\n",
+    "appearance": "Deep copper to dark brown in color, often with attractive ruby highlights. Lagering should provide good clarity. Head retention may be moderate to poor. Off-white to deep ivory colored head. Pronounced legs are often evident.",
+    "aroma": "Dominated by a balance of rich, intense malt and a definite alcohol presence. No hop aroma. May have significant malt-derived dark fruit esters. Alcohol aromas should not be harsh or solventy.",
+    "flavor": "FlavorRich, sweet malt balanced by a significant alcohol presence. The malt can have Maillard products, toasty qualities, some caramel, and occasionally a slight chocolate flavor. No hop flavor. Hop bitterness just offsets the malt sweetness enough to avoid a cloying character. May have significant malt-derived dark fruit esters. The alcohol should be smooth, not harsh or hot, and should help the hop bitterness balance the strong malt presence. The finish should be of malt and alcohol, and can have a certain dryness from the alcohol. It should not by sticky, syrupy or cloyingly sweet. Clean lager character.\n",
+    "mouthfeel": "MouthfeelFull to very full-bodied. Low carbonation. Significant alcohol warmth without sharp hotness. Very smooth without harsh edges from alcohol, bitterness, fusels, or other concentrated flavors.\n",
+    "comments": "Extended lagering is often needed post-freezing to smooth the alcohol and enhance the malt and alcohol balance. Pronounced \u201cICE-bock.\u201d",
+    "comparison": "Style ComparisonEisbocks are not simply stronger doppelbocks; the name refers to the process of freezing and concentrating the beer and is not a statement on alcohol; some doppelbocks are stronger than Eisbocks. Not as thick, rich, or sweet as a Wheatwine.\n",
+    "history": "HistoryA traditional Kulmbach specialty brewed by freezing a doppelbock and removing the ice to concentrate the flavor and alcohol content (as well as any defects).\n",
+    "ingredients": "Characteristic IngredientsSame as doppelbock. Commercial eisbocks are generally concentrated anywhere from 7% to 33% (by volume).\n",
+    "statistics": [
+        {
+            "stat": "IBU",
+            "value": "25 - 35"
+        },
+        {
+            "stat": "SRM",
+            "value": "18 - 30"
+        },
+        {
+            "stat": "OG",
+            "value": "1.078 - 1.120"
+        },
+        {
+            "stat": "FG",
+            "value": "1.020 - 1.035"
+        },
+        {
+            "stat": "ABV",
+            "value": "9% - 14%"
+        }
+    ],
+    "commercial": "Commercial Examples Kulmbacher Eisbock. ",
+    "attributes": [
+        {
+            "tag": "amber-color",
+            "link": "https://dev.bjcp.org/style-tags/amber-color/"
+        },
+        {
+            "tag": "bock-family",
+            "link": "https://dev.bjcp.org/style-tags/bock-family/"
+        },
+        {
+            "tag": "bottom-fermented",
+            "link": "https://dev.bjcp.org/style-tags/bottom-fermented/"
+        },
+        {
+            "tag": "central-europe",
+            "link": "https://dev.bjcp.org/style-tags/central-europe/"
+        },
+        {
+            "tag": "lagered",
+            "link": "https://dev.bjcp.org/style-tags/lagered/"
+        },
+        {
+            "tag": "malty",
+            "link": "https://dev.bjcp.org/style-tags/malty/"
+        },
+        {
+            "tag": "traditional-style",
+            "link": "https://dev.bjcp.org/style-tags/traditional-style/"
+        },
+        {
+            "tag": "very-high-strength",
+            "link": "https://dev.bjcp.org/style-tags/very-high-strength/"
+        }
+    ],
+    "name": "9B. Eisbock ",
+    "id": "9B",
+    "categoryId": "9",
+    "category": "9. Strong European Beer ",
+    "entry-content": "\nThis category contains more strongly flavored and higher alcohol lagers from Germany and the Baltic region. Most are dark, but some pale versions are known.\n"
+}

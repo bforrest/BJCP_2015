@@ -1,0 +1,73 @@
+{
+    "impression": "Overall ImpressionA strong, malty, fruity, wheat-based ale combining the best malt and yeast flavors of a weissbier (pale or dark) with the malty-rich flavor, strength, and body of a Dunkles Bock or Doppelbock.\n",
+    "appearance": "Pale and dark versions exist, with pale versions being light gold to light amber, and dark versions being dark amber to dark ruby-brown in color. A very thick, moussy, long-lasting white to off-white (pale versions) or light tan (dark versions) head is characteristic. The high protein content of wheat impairs clarity in this traditionally unfiltered style, although the level of haze is somewhat variable. Suspended yeast sediment can contribute to the cloudiness.",
+    "aroma": "Medium-high to high malty-rich character with a significant bready-grainy wheat component. Paler versions will have a bready-toasty malty richness, while darker versions will have a deeper, richer malt presence with significant Maillard products. The malt component is similar to a helles bock for pale versions (grainy-sweet-rich, lightly toasted) or a dunkles bock for dark versions (bready-malty-rich, highly toasted, optional caramel). The yeast contributes a typical weizen character of banana and spice (clove, vanilla), which can be medium-low to medium-high. Darker versions can have some dark fruit aroma (plums, prunes, grapes, raisins), particularly as they age. A low to moderate alcohol aroma is acceptable, but shouldn\u2019t be hot or solventy. No hop aroma. The malt, yeast, and alcohol intertwine to produce a complex, inviting, prominent bouquet.",
+    "flavor": "FlavorSimilar to the aroma, a medium-high to high malty-rich flavor together with a significant bready-grainy wheat flavor. Paler versions will have a bready, toasty, grainy-sweet malt richness, while darker versions will have deeper, bready-rich or toasted malt flavors with significant Maillard products, optional caramel. Low to moderate banana and spice (clove, vanilla) yeast character. Darker versions can have some dark fruit flavor (plums, prunes, grapes, raisins), particularly as they age. A light chocolate character (but not roast) is optional in darker versions. No hop flavor. A low hop bitterness can give a slightly sweet palate impression, but the beer typically finishes dry (sometimes enhanced by a light alcohol character). The interplay between the malt, yeast, and alcohol adds complexity and interest, which is often enhanced with age.\n",
+    "mouthfeel": "MouthfeelMedium-full to full body. A fluffy or creamy texture is typical, as is the mild warming sensation of substantial alcohol content. Moderate to high carbonation.\n",
+    "comments": "A Weissbier brewed to bock or doppelbock strength. Schneider also produces an Eisbock version. Pale and dark versions exist, although dark are more common. Pale versions have less rich malt complexity and often more hops, as with doppelbocks. Lightly oxidized Maillard products can produce some rich, intense flavors and aromas that are often seen in aged imported commercial products; fresher versions will not have this character. Well-aged examples might also take on a slight sherry-like complexity.",
+    "comparison": "Style ComparisonStronger and richer than a Weissbier or Dunkles Weissbier, but with similar yeast character. More directly comparable to the Doppelbock style, with the pale and dark variations. Can vary widely in strength, but most are in the bock to doppelbock range.\n",
+    "history": "HistoryAventinus, the world\u2019s oldest top-fermented wheat doppelbock, was created in 1907 at the Schneider Weisse Brauhaus in Munich.\n",
+    "ingredients": "Characteristic IngredientsA high percentage of malted wheat is used (by German brewing tradition must be at least 50%, although it may contain up to 70%), with the remainder being Munich- and/or Vienna-type barley malts in darker versions, and more Pils malt in paler versions. Some color malts may be used sparingly. A traditional decoction mash can give the appropriate body without cloying sweetness. Weizen ale yeasts produce the typical spicy and fruity character. Too warm or too cold fermentation will cause the phenols and esters to be out of balance and may create off-flavors. Hop choice is essentially irrelevant, but German varieties are most traditional.\n",
+    "statistics": [
+        {
+            "stat": "IBU",
+            "value": "15 - 30"
+        },
+        {
+            "stat": "SRM",
+            "value": "6 - 25"
+        },
+        {
+            "stat": "OG",
+            "value": "1.064 - 1.090"
+        },
+        {
+            "stat": "FG",
+            "value": "1.015 - 1.022"
+        },
+        {
+            "stat": "ABV",
+            "value": "6.5% - 9%"
+        }
+    ],
+    "commercial": "Commercial ExamplesDark Versions Eisenbahn Weizenbock, Plank Bavarian Dunkler Weizenbock, Penn Weizenbock, Schneider Unser Aventinus. Pale Versions Plank Bavarian Heller Weizenbock, Weihenstephaner Vitus. ",
+    "attributes": [
+        {
+            "tag": "amber-color",
+            "link": "https://dev.bjcp.org/style-tags/amber-color/"
+        },
+        {
+            "tag": "central-europe",
+            "link": "https://dev.bjcp.org/style-tags/central-europe/"
+        },
+        {
+            "tag": "high-strength",
+            "link": "https://dev.bjcp.org/style-tags/high-strength/"
+        },
+        {
+            "tag": "malty",
+            "link": "https://dev.bjcp.org/style-tags/malty/"
+        },
+        {
+            "tag": "pale-color",
+            "link": "https://dev.bjcp.org/style-tags/pale-color/"
+        },
+        {
+            "tag": "top-fermented",
+            "link": "https://dev.bjcp.org/style-tags/top-fermented/"
+        },
+        {
+            "tag": "traditional-style",
+            "link": "https://dev.bjcp.org/style-tags/traditional-style/"
+        },
+        {
+            "tag": "wheat-beer-family",
+            "link": "https://dev.bjcp.org/style-tags/wheat-beer-family/"
+        }
+    ],
+    "name": "10C. Weizenbock ",
+    "id": "10C",
+    "categoryId": "10",
+    "category": "10. German Wheat Beer ",
+    "entry-content": "\nThis category contains vollbier- and starkbier-strength German wheat beers without sourness, in light and dark colors.\n"
+}

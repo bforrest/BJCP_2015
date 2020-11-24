@@ -1,0 +1,73 @@
+{
+    "impression": "Overall ImpressionA dark, strong, malty German lager beer that emphasizes the malty-rich and somewhat toasty qualities of continental malts without being sweet in the finish.\n",
+    "appearance": "Light copper to brown color, often with attractive garnet highlights. Lagering should provide good clarity despite the dark color. Large, creamy, persistent, off-white head.",
+    "aroma": "Medium to medium-high bready-malty-rich aroma, often with moderate amounts of rich Maillard products and/or toasty overtones. Virtually no hop aroma. Some alcohol may be noticeable. Clean lager character, although the malts can provide a slight (low to none) dark fruit character, particularly in aged examples.",
+    "flavor": "FlavorComplex, rich maltiness is dominated by the toasty-rich Maillard products. Some caramel notes may be present. Hop bitterness is generally only high enough to support the malt flavors, allowing a bit of sweetness to linger into the finish. Well-attenuated, not cloying. Clean fermentation profile, although the malt can provide a slight dark fruit character. No hop flavor. No roasted or burnt character.\n",
+    "mouthfeel": "MouthfeelMedium to medium-full bodied. Moderate to moderately low carbonation. Some alcohol warmth may be found, but should never be hot. Smooth, without harshness or astringency.\n",
+    "comments": "Decoction mashing and long boiling plays an important part of flavor development, as it enhances the caramel and Maillard flavor aspects of the malt. Any fruitiness is due to Munich and other specialty malts, not yeast-derived esters developed during fermentation.",
+    "comparison": "Style ComparisonDarker, with a richer malty flavor and less apparent bitterness than a Helles Bock. Less alcohol and malty richness than a Doppelbock. Stronger malt flavors and higher alcohol than a M\u00e4rzen. Richer, less attenuated, and less hoppy than a Czech Amber Lager.\n",
+    "history": "HistoryOriginated in the Northern German city of Einbeck, which was a brewing center and popular exporter in the days of the Hanseatic League (14th to 17th century). Recreated in Munich starting in the 17th century. The name \u201cbock\u201d is based on a corruption of the name \u201cEinbeck\u201d in the Bavarian dialect, and was thus only used after the beer came to Munich. \u201cBock\u201d also means \u201cRam\u201d in German, and is often used in logos and advertisements.\n",
+    "ingredients": "Characteristic IngredientsMunich and Vienna malts, rarely a tiny bit of dark roasted malts for color adjustment, never any non-malt adjuncts. Continental European hop varieties are used. Clean German lager yeast.\n",
+    "statistics": [
+        {
+            "stat": "IBU",
+            "value": "20 - 27"
+        },
+        {
+            "stat": "SRM",
+            "value": "14 - 22"
+        },
+        {
+            "stat": "OG",
+            "value": "1.064 - 1.072"
+        },
+        {
+            "stat": "FG",
+            "value": "1.013 - 1.019"
+        },
+        {
+            "stat": "ABV",
+            "value": "6.3% - 7.2%"
+        }
+    ],
+    "commercial": "Commercial Examples Aass Bock, Einbecker Ur-Bock Dunkel, Great Lakes Rockefeller Bock, Kneitinger Bock, New Glarus Uff-da Bock, Penn Brewery St. Nikolaus Bock. ",
+    "attributes": [
+        {
+            "tag": "amber-color",
+            "link": "https://dev.bjcp.org/style-tags/amber-color/"
+        },
+        {
+            "tag": "bock-family",
+            "link": "https://dev.bjcp.org/style-tags/bock-family/"
+        },
+        {
+            "tag": "bottom-fermented",
+            "link": "https://dev.bjcp.org/style-tags/bottom-fermented/"
+        },
+        {
+            "tag": "central-europe",
+            "link": "https://dev.bjcp.org/style-tags/central-europe/"
+        },
+        {
+            "tag": "high-strength",
+            "link": "https://dev.bjcp.org/style-tags/high-strength/"
+        },
+        {
+            "tag": "lagered",
+            "link": "https://dev.bjcp.org/style-tags/lagered/"
+        },
+        {
+            "tag": "malty",
+            "link": "https://dev.bjcp.org/style-tags/malty/"
+        },
+        {
+            "tag": "traditional-style",
+            "link": "https://dev.bjcp.org/style-tags/traditional-style/"
+        }
+    ],
+    "name": "6C. Dunkles Bock ",
+    "id": "6C",
+    "categoryId": "6",
+    "category": "6. Amber Malty European Lager ",
+    "entry-content": "\nThis category groups amber-colored, German-origin, bottom-fermented lagerbiers that have a malty balance and are vollbier to starkbier in strength.\n"
+}

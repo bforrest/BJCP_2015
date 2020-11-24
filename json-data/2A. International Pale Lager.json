@@ -1,0 +1,69 @@
+{
+    "impression": "Overall ImpressionA highly-attenuated pale lager without strong flavors, typically well-balanced and highly carbonated. Served cold, it is refreshing and thirst-quenching.\n",
+    "appearance": "Pale straw to gold color. White, frothy head may not be long lasting. Very clear.",
+    "aroma": "Low to medium-low malt aroma, which can be grainy-malty or slightly corny-sweet. Hop aroma may range from very low to a medium, spicy or floral hop presence. While a clean fermentation profile is generally most desirable, low levels of yeast character (such as a light apple fruitiness) are not a fault. A light amount of DMS or corn aroma is not a fault",
+    "flavor": "FlavorLow to moderate levels of grainy-malt flavor, with a crisp, dry, well-attenuated finish. The grain character can be somewhat neutral, or show a light bready-crackery quality or up to moderate corny or malty sweetness. Hop flavor ranges from none to medium levels, and often showing a floral, spicy, or herbal character if detected. Hop bitterness at medium-low to medium level. Balance may vary from slightly malty to slightly bitter, but is relatively close to even. Neutral aftertaste with light malt and sometimes hop flavors. A light amount of DMS is not a fault.\n",
+    "mouthfeel": "MouthfeelLight to medium body. Moderately high to highly carbonated. Can have a slight carbonic bite on the tongue.\n",
+    "comments": "International lagers tend to have fewer adjuncts than standard American lagers. They may be all-malt, although strong flavors are still a fault. A broad category of international mass-market lagers ranging from up-scale American lagers to the typical \u201cimport\u201d or \u201cgreen bottle\u201d international beers found in America and many export markets. Often confusingly labeled as a \u201cPilsner.\u201d Any skunkiness in commercial beers from being lightstruck in a green bottle is a mishandling fault, not a characteristic of the style.",
+    "comparison": "Style ComparisonGenerally more bitter and filling than American lager. Less hoppy and bitter than a German Pils. Less body, malt flavor, and hop character than a Czech Premium Pale Lager. More robust versions can approach a Munich Helles in flavor, although with more of an adjunct quality.\n",
+    "history": "HistoryIn the United States, developed as a premium version of the standard American lager, with a similar history. Outside the United States, developed either as an imitation of American style lagers, or as a more accessible (and often drier and less bitter) version of a Pilsner-type beer. Often heavily marketed and exported by large industrial or multi-national breweries.\n",
+    "ingredients": "Characteristic IngredientsTwo- or six-row barley. May use rice, corn, or sugar as adjuncts, or may be all malt.\n",
+    "statistics": [
+        {
+            "stat": "IBU",
+            "value": "18 - 25"
+        },
+        {
+            "stat": "SRM",
+            "value": "2 - 6"
+        },
+        {
+            "stat": "OG",
+            "value": "1.042 - 1.050"
+        },
+        {
+            "stat": "FG",
+            "value": "1.008 - 1.012"
+        },
+        {
+            "stat": "ABV",
+            "value": "4.6% - 6%"
+        }
+    ],
+    "commercial": "Commercial Examples Asahi Super Dry, Birra Moretti, Corona Extra, Devils Backbone Gold Leaf Lager, Full Sail Session Premium Lager, Heineken, Red Stripe, Singha. ",
+    "attributes": [
+        {
+            "tag": "balanced",
+            "link": "https://dev.bjcp.org/style-tags/balanced/"
+        },
+        {
+            "tag": "bottom-fermented",
+            "link": "https://dev.bjcp.org/style-tags/bottom-fermented/"
+        },
+        {
+            "tag": "lagered",
+            "link": "https://dev.bjcp.org/style-tags/lagered/"
+        },
+        {
+            "tag": "pale-color",
+            "link": "https://dev.bjcp.org/style-tags/pale-color/"
+        },
+        {
+            "tag": "pale-lager-family",
+            "link": "https://dev.bjcp.org/style-tags/pale-lager-family/"
+        },
+        {
+            "tag": "standard-strength",
+            "link": "https://dev.bjcp.org/style-tags/standard-strength/"
+        },
+        {
+            "tag": "traditional-style",
+            "link": "https://dev.bjcp.org/style-tags/traditional-style/"
+        }
+    ],
+    "name": "2A. International Pale Lager ",
+    "id": "2A",
+    "categoryId": "2",
+    "category": "2. International Lager ",
+    "entry-content": "\nInternational lagers are the premium mass-market lagers produced in most countries in the world. Whether developed from American or European styles, they all tend to have a fairly uniform character and are heavily marketed. Loosely derived from original Pilsner-type lagers, with colored variations having additional malt flavors while retaining a broad appeal to most palates. In many countries, the styles will be referred to by their local country names. The use of the term \u201cinternational\u201d doesn\u2019t mean that any beers are actually labeled as such; it is more of a categorization of similar beers produced worldwide.\n"
+}

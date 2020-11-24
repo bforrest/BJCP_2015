@@ -1,0 +1,77 @@
+{
+    "impression": "Overall ImpressionA fairly strong, highly roasted, bitter, hoppy dark stout. Has the body and dark flavors typical of stouts with a more aggressive American hop character and bitterness.\n",
+    "appearance": "Generally a jet black color, although some may appear very dark brown. Large, persistent head of light tan to light brown in color. Usually opaque.",
+    "aroma": "Moderate to strong aroma of roasted malts, often having a roasted coffee or dark chocolate quality. Burnt or charcoal aromas are acceptable at low levels. Medium to very low hop aroma, often with a citrusy or resiny character. Medium to no esters. Light alcohol-derived aromatics are also optional.",
+    "flavor": "FlavorModerate to very high roasted malt flavors, often tasting of coffee, roasted coffee beans, dark or bittersweet chocolate. May have the flavor of slightly burnt coffee grounds, but this character should not be prominent. Low to medium malt sweetness, often with rich chocolate or caramel flavors. Medium to high bitterness. Low to high hop flavor, generally citrusy or resiny. Low to no esters. Medium to dry finish, occasionally with a lightly burnt quality. Alcohol flavors can be present up to medium levels, but smooth.\n",
+    "mouthfeel": "MouthfeelMedium to full body. Can be somewhat creamy, particularly if a small amount of oats have been used to enhance mouthfeel. Can have a bit of roast-derived astringency, but this character should not be excessive. Medium-high to high carbonation. Light to moderately strong alcohol warmth, but smooth and not excessively hot.\n",
+    "comments": "Breweries express individuality through varying the roasted malt profile, malt sweetness and flavor, and the amount of finishing hops used. Generally has bolder roasted malt flavors and hopping than other traditional stouts (except Imperial Stouts).",
+    "comparison": "Style ComparisonLike a hoppy, bitter, strongly roasted Extra or Export Stout. Much more roast and body than a Black IPA. Bigger, stronger versions belong in the Russian Imperial Stout style. Stronger and more assertive, particularly in the dark malt/grain additions and hop character, than American Porter.\n",
+    "history": "HistoryA modern craft beer and homebrew style that applied an aggressive American hoping regime to a strong traditional English or Irish stout. The homebrew version was previously known as West Coast Stout, which is a common naming scheme for a more highly-hopped beer.\n",
+    "ingredients": "Characteristic IngredientsCommon American base malts and yeast. Varied use of dark and roasted malts, as well as caramel-type malts. Adjuncts such as oatmeal may be present in low quantities. American hop varieties.\n",
+    "statistics": [
+        {
+            "stat": "IBU",
+            "value": "35 - 75"
+        },
+        {
+            "stat": "SRM",
+            "value": "30 - 40"
+        },
+        {
+            "stat": "OG",
+            "value": "1.050 - 1.075"
+        },
+        {
+            "stat": "FG",
+            "value": "1.010 - 1.022"
+        },
+        {
+            "stat": "ABV",
+            "value": "5% - 7%"
+        }
+    ],
+    "commercial": "Commercial Examples Avery Out of Bounds Stout, Deschutes Obsidian Stout, North Coast Old No. 38, Rogue Shakespeare Stout, Sierra Nevada Stout. ",
+    "attributes": [
+        {
+            "tag": "bitter",
+            "link": "https://dev.bjcp.org/style-tags/bitter/"
+        },
+        {
+            "tag": "craft-style",
+            "link": "https://dev.bjcp.org/style-tags/craft-style/"
+        },
+        {
+            "tag": "dark-color",
+            "link": "https://dev.bjcp.org/style-tags/dark-color/"
+        },
+        {
+            "tag": "high-strength",
+            "link": "https://dev.bjcp.org/style-tags/high-strength/"
+        },
+        {
+            "tag": "hoppy",
+            "link": "https://dev.bjcp.org/style-tags/hoppy/"
+        },
+        {
+            "tag": "north-america",
+            "link": "https://dev.bjcp.org/style-tags/north-america/"
+        },
+        {
+            "tag": "roasty",
+            "link": "https://dev.bjcp.org/style-tags/roasty/"
+        },
+        {
+            "tag": "stout-family",
+            "link": "https://dev.bjcp.org/style-tags/stout-family/"
+        },
+        {
+            "tag": "top-fermented",
+            "link": "https://dev.bjcp.org/style-tags/top-fermented/"
+        }
+    ],
+    "name": "20B. American Stout ",
+    "id": "20B",
+    "categoryId": "20",
+    "category": "20. American Porter and Stout ",
+    "entry-content": "\nThese beers all evolved from their English namesakes to be wholly transformed by American craft brewers. Generally, these styles are bigger, stronger, more roast-forward, and more hop-centric than their Anglo cousins. These styles are grouped together due to a similar shared history and flavor profile.\n"
+}

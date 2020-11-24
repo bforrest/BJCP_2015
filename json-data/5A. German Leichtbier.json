@@ -1,0 +1,77 @@
+{
+    "impression": "Overall ImpressionA pale, highly-attenuated, light-bodied German lager with lower alcohol and calories than normal-strength beers. Moderately bitter with noticeable malt and hop flavors, the beer is still interesting to drink.\n",
+    "appearance": "Straw to pale gold in color. Brilliant clarity. Moderate white head with average to below average persistence.",
+    "aroma": "Low to medium hop aroma, with a spicy, herbal, or floral character. Low to medium-low grainy-sweet or slightly crackery malt aroma. Clean fermentation profile.",
+    "flavor": "FlavorLow to medium grainy-sweet malt flavor initially. Medium hop bitterness. Low to medium hop flavor, with a spicy, herbal, or floral quality. Clean fermentation character, well-lagered. Dry finish with a light malty and hoppy aftertaste.\n",
+    "mouthfeel": "MouthfeelLight to very light body. Medium to high carbonation. Smooth, well-attenuated.\n",
+    "comments": "Marketed primarily as a diet-oriented beer with lower carbohydrates, alcohol, and calories. Pronounced \u201cLYESHT-beer.\u201d May also be known as a Diat Pils or Helles, this style is in the schankbier gravity class. Other variations of Leicht class beers can be made from Weissbier, K\u00f6lsch, and Altbier; those beers are best entered in the Mixed-Style Beer category.",
+    "comparison": "Style ComparisonLike a lower-alcohol, lighter-bodied, slightly less aggressive German Pils or Helles.\n",
+    "history": "HistoryTraditional versions existed as drinks for physical laborers in factories or fields, but modern versions are more based on popular American products in the same class.\n",
+    "ingredients": "Characteristic IngredientsSimilar to a German Pils or Helles, continental Pils malt, German lager yeast, Saazer-type hops.\n",
+    "statistics": [
+        {
+            "stat": "IBU",
+            "value": "15 - 28"
+        },
+        {
+            "stat": "SRM",
+            "value": "2 - 5"
+        },
+        {
+            "stat": "OG",
+            "value": "1.026 - 1.034"
+        },
+        {
+            "stat": "FG",
+            "value": "1.006 - 1.010"
+        },
+        {
+            "stat": "ABV",
+            "value": "2.4% - 3.6%"
+        }
+    ],
+    "commercial": "Commercial Examples Beck\u2019s Light, Bitburger Light, Mahr\u2019s Leicht, Paulaner M\u00fcnchner Hell Leicht, Paulaner Premium Leicht. ",
+    "attributes": [
+        {
+            "tag": "bitter",
+            "link": "https://dev.bjcp.org/style-tags/bitter/"
+        },
+        {
+            "tag": "bottom-fermented",
+            "link": "https://dev.bjcp.org/style-tags/bottom-fermented/"
+        },
+        {
+            "tag": "central-europe",
+            "link": "https://dev.bjcp.org/style-tags/central-europe/"
+        },
+        {
+            "tag": "hoppy",
+            "link": "https://dev.bjcp.org/style-tags/hoppy/"
+        },
+        {
+            "tag": "lagered",
+            "link": "https://dev.bjcp.org/style-tags/lagered/"
+        },
+        {
+            "tag": "pale-color",
+            "link": "https://dev.bjcp.org/style-tags/pale-color/"
+        },
+        {
+            "tag": "pale-lager-family",
+            "link": "https://dev.bjcp.org/style-tags/pale-lager-family/"
+        },
+        {
+            "tag": "session-strength",
+            "link": "https://dev.bjcp.org/style-tags/session-strength/"
+        },
+        {
+            "tag": "traditional-style",
+            "link": "https://dev.bjcp.org/style-tags/traditional-style/"
+        }
+    ],
+    "name": "5A. German Leichtbier ",
+    "id": "5A",
+    "categoryId": "5",
+    "category": "5. Pale Bitter European Beer ",
+    "entry-content": "\nThis category describes German-origin beers that are pale and have an even to bitter balance with a mild to moderately strong hoppy character featuring classic German hops. They are generally bottom-fermented or are lagered to provide a smooth profile, and are well-attenuated as are most German beers.\n"
+}

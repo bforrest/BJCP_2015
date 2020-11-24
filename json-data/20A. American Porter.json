@@ -1,0 +1,77 @@
+{
+    "impression": "Overall ImpressionA substantial, malty dark beer with a complex and flavorful dark malt character.\n",
+    "appearance": "Medium brown to very dark brown, often with ruby- or garnet-like highlights. Can approach black in color. Clarity may be difficult to discern in such a dark beer, but when not opaque will be clear (particularly when held up to the light). Full, tan-colored head with moderately good head retention.",
+    "aroma": "Medium-light to medium-strong dark malt aroma, often with a lightly burnt character. Optionally may also show some additional malt character in support (grainy, bready, toffee-like, caramelly, chocolate, coffee, rich, and/or sweet). Hop aroma low to high, often with a resiny, earthy, or floral character. May be dry-hopped. Fruity esters are moderate to none.",
+    "flavor": "FlavorModerately strong malt flavor usually features a lightly burnt malt character (and sometimes chocolate and/or coffee flavors) with a bit of grainy, dark malt dryness in the finish. Overall flavor may finish from dry to medium-sweet. May have a sharp character from dark roasted grains, but should not be overly acrid, burnt or harsh. Medium to high bitterness, which can be accentuated by the dark malt. Hop flavor can vary from low to high with a resiny, earthy, or floral character, and balances the dark malt flavors. The dark malt and hops should not clash. Dry-hopped versions may have a resiny flavor. Fruity esters moderate to none.\n",
+    "mouthfeel": "MouthfeelMedium to medium-full body. Moderately low to moderately high carbonation. Stronger versions may have a slight alcohol warmth. May have a slight astringency from dark malts, although this character should not be strong.\n",
+    "comments": "Although a rather broad style open to brewer interpretation. Dark malt intensity and flavor can vary significantly. May or may not have a strong hop character, and may or may not have significant fermentation by-products; thus may seem to have an \u201cAmerican\u201d or \u201cBritish\u201d character.",
+    "comparison": "Style ComparisonMore bitter and often stronger with more dark malt qualities and dryness than English Porters or Pre-Prohibition Porters. Less strong and assertive than American Stouts.\n",
+    "history": "HistoryA stronger, more aggressive version of pre-prohibition porters and/or English porters developed in the modern craft beer era. Historical versions existed, particularly on the US East Coast, some of which are still being produced (see the Historical Beer, Pre-Prohibition Porter). This style describes the modern craft version.\n",
+    "ingredients": "Characteristic IngredientsMay contain several malts, prominently dark malts, which often include black malt (chocolate malt is also often used). American hops typically used for bittering, but US or UK finishing hops can be used; a clashing citrus quality is generally undesirable. Ale yeast can either be clean US versions or characterful English varieties.\n",
+    "statistics": [
+        {
+            "stat": "IBU",
+            "value": "25 - 50"
+        },
+        {
+            "stat": "SRM",
+            "value": "22 - 40"
+        },
+        {
+            "stat": "OG",
+            "value": "1.050 - 1.070"
+        },
+        {
+            "stat": "FG",
+            "value": "1.012 - 1.018"
+        },
+        {
+            "stat": "ABV",
+            "value": "4.8% - 6.5%"
+        }
+    ],
+    "commercial": "Commercial Examples Anchor Porter, Boulevard Bully! Porter, Deschutes Black Butte Porter, Founders Porter, Great Lakes Edmund Fitzgerald Porter, Smuttynose Robust Porter, Sierra Nevada Porter. ",
+    "attributes": [
+        {
+            "tag": "bitter",
+            "link": "https://dev.bjcp.org/style-tags/bitter/"
+        },
+        {
+            "tag": "craft-style",
+            "link": "https://dev.bjcp.org/style-tags/craft-style/"
+        },
+        {
+            "tag": "dark-color",
+            "link": "https://dev.bjcp.org/style-tags/dark-color/"
+        },
+        {
+            "tag": "hoppy",
+            "link": "https://dev.bjcp.org/style-tags/hoppy/"
+        },
+        {
+            "tag": "north-america",
+            "link": "https://dev.bjcp.org/style-tags/north-america/"
+        },
+        {
+            "tag": "porter-family",
+            "link": "https://dev.bjcp.org/style-tags/porter-family/"
+        },
+        {
+            "tag": "roasty",
+            "link": "https://dev.bjcp.org/style-tags/roasty/"
+        },
+        {
+            "tag": "standard-strength",
+            "link": "https://dev.bjcp.org/style-tags/standard-strength/"
+        },
+        {
+            "tag": "top-fermented",
+            "link": "https://dev.bjcp.org/style-tags/top-fermented/"
+        }
+    ],
+    "name": "20A. American Porter ",
+    "id": "20A",
+    "categoryId": "20",
+    "category": "20. American Porter and Stout ",
+    "entry-content": "\nThese beers all evolved from their English namesakes to be wholly transformed by American craft brewers. Generally, these styles are bigger, stronger, more roast-forward, and more hop-centric than their Anglo cousins. These styles are grouped together due to a similar shared history and flavor profile.\n"
+}

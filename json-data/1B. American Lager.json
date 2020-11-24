@@ -1,0 +1,73 @@
+{
+    "impression": "Overall ImpressionA very pale, highly-carbonated, light-bodied, well-attenuated lager with a very neutral flavor profile and low bitterness. Served very cold, it can be a very refreshing and thirst quenching drink.\n",
+    "appearance": "Very pale straw to medium yellow color. White, frothy head seldom persists. Very clear.",
+    "aroma": "Low to no malt aroma, although it can be perceived as grainy, sweet or corn-like if present. Hop aroma may range from none to a light, spicy or floral hop presence. While a clean fermentation character is desirable, a light amount of yeast character (particularly a light apple character) is not a fault. Light DMS is also not a fault.",
+    "flavor": "FlavorRelatively neutral palate with a crisp and dry finish and a moderately-low to low grainy or corn-like flavor that might be perceived as sweetness due to the low bitterness. Hop flavor ranges from none to moderately-low levels, and can have a floral, spicy, or herbal quality (although often not strong enough to distinguish). Hop bitterness at low to medium-low level. Balance may vary from slightly malty to slightly bitter, but is relatively close to even. High levels of carbonation may accentuate the crispness of the dry finish. Clean lager fermentation character.\n",
+    "mouthfeel": "MouthfeelLow to medium-low body. Very highly carbonated with slight carbonic bite on the tongue.\n",
+    "comments": "Strong flavors are a fault. Often what non-craft beer drinkers expect to be served if they order beer in the United States. May be marketed as Pilsner beers outside of Europe, but should not be confused with traditional examples.",
+    "comparison": "Style ComparisonStronger, more flavor and body than a Light American Lager. Less bitterness and flavor than an International Lager. Significantly less flavor, hops, and bitterness than traditional European Pilsners.\n",
+    "history": "HistoryAlthough German immigrants had brewed traditional Pilsner-inspired lager beer in the United States since the mid-late 1800s, the modern American lager style was heavily influenced by Prohibition and World War II. Surviving breweries consolidated, expanded distribution, and heavily promoted a beer style that was appealing to a broad range of the population. Became the dominant beer style for many decades, and spawning many international rivals who would develop similarly bland products for the mass market supported by heavy advertising.\n",
+    "ingredients": "Characteristic IngredientsTwo- or six-row barley with high percentage (up to 40%) of rice or corn as adjuncts.\n",
+    "statistics": [
+        {
+            "stat": "IBU",
+            "value": "8 - 18"
+        },
+        {
+            "stat": "SRM",
+            "value": "2 - 4"
+        },
+        {
+            "stat": "OG",
+            "value": "1.040 - 1.050"
+        },
+        {
+            "stat": "FG",
+            "value": "1.004 - 1.010"
+        },
+        {
+            "stat": "ABV",
+            "value": "4.2% - 5.3%"
+        }
+    ],
+    "commercial": "Commercial Examples Budweiser, Coors Original, Grain Belt Premium Lager, Miller High Life, Pabst Blue Ribbon, Special Export. ",
+    "attributes": [
+        {
+            "tag": "balanced",
+            "link": "https://dev.bjcp.org/style-tags/balanced/"
+        },
+        {
+            "tag": "bottom-fermented",
+            "link": "https://dev.bjcp.org/style-tags/bottom-fermented/"
+        },
+        {
+            "tag": "lagered",
+            "link": "https://dev.bjcp.org/style-tags/lagered/"
+        },
+        {
+            "tag": "north-america",
+            "link": "https://dev.bjcp.org/style-tags/north-america/"
+        },
+        {
+            "tag": "pale-color",
+            "link": "https://dev.bjcp.org/style-tags/pale-color/"
+        },
+        {
+            "tag": "pale-lager-family",
+            "link": "https://dev.bjcp.org/style-tags/pale-lager-family/"
+        },
+        {
+            "tag": "standard-strength",
+            "link": "https://dev.bjcp.org/style-tags/standard-strength/"
+        },
+        {
+            "tag": "traditional-style",
+            "link": "https://dev.bjcp.org/style-tags/traditional-style/"
+        }
+    ],
+    "name": "1B. American Lager ",
+    "id": "1B",
+    "categoryId": "1",
+    "category": "1. Standard American Beer ",
+    "entry-content": "\nThis category describes everyday American beers that have a wide public appeal. Containing both ales and lagers, the beers of this category are not typically complex, and have smooth, accessible flavors. The ales tend to have lager-like qualities, or are designed to appeal to mass-market lager drinkers as crossover beers. Mass-market beers with a more international appeal or origin are described in the International Lager category.\n"
+}

@@ -1,0 +1,77 @@
+{
+    "impression": "Overall ImpressionA beer with the dryness, hop-forward balance, and flavor characteristics of an American IPA, only darker in color \u2013 but without strongly roasted or burnt flavors. The flavor of darker malts is gentle and supportive, not a major flavor component. Drinkability is a key characteristic.\n",
+    "appearance": "Color ranges from dark brown to black. Should be clear, although unfiltered dry-hopped versions may be a bit hazy; if opaque, should not be murky. Good head stand with light tan to tan color should persist.",
+    "aroma": "A moderate to high hop aroma, often with a stone fruit, tropical, citrusy, resinous, piney, berry, or melon character. If dry hopped, can have an additional floral, herbal, or grassy aroma, although this is not required. Very low to moderate dark malt aroma, which can optionally include light chocolate, coffee, or toast notes. Some clean or lightly caramelly malty sweetness may be found in the background. Fruitiness, either from esters or from hops, may also be detected in some versions, although a neutral fermentation character is also acceptable.",
+    "flavor": "FlavorMedium-low to high hop flavor with tropical, stone fruit, melon, citrusy, berry, piney or resinous aspects. Medium-high to very high hop bitterness, although dark malts may contribute to the perceived bitterness. The base malt flavor is generally clean and of low to medium intensity, and can optionally have low caramel or toffee flavors. Dark malt flavors are low to medium-low; restrained chocolate or coffee flavors may be present, but the roasted notes should not be intense, ashy, or burnt, and should not clash with the hops. Low to moderate fruitiness (from yeast or hops) is acceptable but not required. Dry to slightly off-dry finish. The finish may include a light roast character that contributes to perceived dryness, although this is not required. The bitterness may linger into the aftertaste but should not be harsh. Some clean alcohol flavor can be noted in stronger versions.\n",
+    "mouthfeel": "MouthfeelSmooth, medium-light to medium-bodied mouthfeel without significant hop- or (especially) roasted malt-derived astringency. Dry-hopped versions may be a bit resiny. Medium carbonation. A bit of creaminess may be present but is not required. Some smooth alcohol warming can and should be sensed in stronger (but not all) versions.\n",
+    "comments": "Most examples are standard strength. Strong examples can sometimes seem like big, hoppy porters if made too extreme, which hurts their drinkability. The hops and malt can combine to produce interesting interactions.",
+    "comparison": "Style ComparisonBalance and overall impression of an American or Double IPA with restrained roast similar to the type found in Schwarzbiers. Not as roasty-burnt as American stouts and porters, and with less body and increased smoothness and drinkability.\n",
+    "history": "HistoryA variation of the American IPA style first commercially produced by Greg Noonan as Blackwatch IPA around 1990. Popularized in the Pacific Northwest and Southern California of the US starting in the early-mid 2000s. This style is sometimes known as Cascadian Dark Ale (CDA), mainly in the Pacific Northwest.\n",
+    "ingredients": "Characteristic IngredientsDebittered roast malts for color and some flavor without harshness and burnt qualities; American or New World hop varieties that don\u2019t clash with roasted malts. Hop characteristics cited are typical of these type of hops; others characteristics are possible, particularly if derived from newer varietals.\n",
+    "statistics": [
+        {
+            "stat": "IBU",
+            "value": "50 - 90"
+        },
+        {
+            "stat": "SRM",
+            "value": "25 - 40"
+        },
+        {
+            "stat": "OG",
+            "value": "1.050 - 1.085"
+        },
+        {
+            "stat": "FG",
+            "value": "1.010 - 1.018"
+        },
+        {
+            "stat": "ABV",
+            "value": "5.5% - 9%"
+        }
+    ],
+    "commercial": "Commercial Examples 21st Amendment Back in Black (standard), Deschutes Hop in the Dark CDA (standard), Rogue Dad\u2019s Little Helper (standard), Southern Tier Iniquity (double), Widmer Pitch Black IPA (standard). ",
+    "attributes": [
+        {
+            "tag": "bitter",
+            "link": "https://dev.bjcp.org/style-tags/bitter/"
+        },
+        {
+            "tag": "craft-style",
+            "link": "https://dev.bjcp.org/style-tags/craft-style/"
+        },
+        {
+            "tag": "dark-color",
+            "link": "https://dev.bjcp.org/style-tags/dark-color/"
+        },
+        {
+            "tag": "high-strength",
+            "link": "https://dev.bjcp.org/style-tags/high-strength/"
+        },
+        {
+            "tag": "hoppy",
+            "link": "https://dev.bjcp.org/style-tags/hoppy/"
+        },
+        {
+            "tag": "ipa-family",
+            "link": "https://dev.bjcp.org/style-tags/ipa-family/"
+        },
+        {
+            "tag": "north-america",
+            "link": "https://dev.bjcp.org/style-tags/north-america/"
+        },
+        {
+            "tag": "specialty-family",
+            "link": "https://dev.bjcp.org/style-tags/specialty-family/"
+        },
+        {
+            "tag": "top-fermented",
+            "link": "https://dev.bjcp.org/style-tags/top-fermented/"
+        }
+    ],
+    "name": "21B. Specialty IPA: Black IPA ",
+    "id": "21B",
+    "categoryId": "21",
+    "category": "21. IPA ",
+    "entry-content": "\nThe IPA category is for modern American IPAs and their derivatives. This does not imply that English IPAs aren\u2019t proper IPAs or that there isn\u2019t a relationship between them. This is simply a method of grouping similar styles for competition purposes. English IPAs are grouped with other English-derived beers, and the stronger Double IPA is grouped with stronger American beers. The term \u201cIPA\u201d is intentionally not spelled out as \u201cIndia Pale Ale\u201d since none of these beers historically went to India, and many aren\u2019t pale. However, the term IPA has come to be a balance-defined style in modern craft beer.\n"
+}

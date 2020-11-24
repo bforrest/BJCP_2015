@@ -1,0 +1,44 @@
+{
+    "impression": "Overall ImpressionA sour and/or funky version of a fruit, herb, or spice beer, or a wild beer aged in wood. If wood-aged, the wood should not be the primary or dominant character.\n",
+    "appearance": "Variable by base style, generally showing a color, tint, or hue from any fruit (if used) in both the beer and the head. Clarity can be variable; some haze is not a fault. Head retention is often poor.",
+    "aroma": "Variable by base style. Should show the fruit, sour and/or funk of a wild fermentation, as well as the characteristics of the special ingredients used. The best examples will blend the aromatics from the fermentation with the special ingredients, creating an aroma that may be difficult to attribute precisely.",
+    "flavor": "FlavorVariable by base style. Should show the fruit, sour and/or funk of a wild fermentation, as well as the characteristics of the special ingredients used. Any fruit sweetness is generally gone, so only the esters typically remain from the fruit. The sour character from the fruit and wild fermentation could be prominent, but should not be overwhelming. The acidity and tannin from any fruit can both enhance the dryness of the beer, so care must be taken with the balance. The acidity should enhance the perception of the fruit flavor, not detract from it. Wood notes, if present, add flavor but should be balanced.\n",
+    "mouthfeel": "MouthfeelVariable by base style. Generally a light body, lighter than what might be expected from the base style. Generally moderate to high carbonation; carbonation should balance the base style if one is declared. The presence of tannin from some fruit or wood can provide a slight astringency, enhance the body, or make the beer seem drier than it is.\n",
+    "comments": "A wild beer featuring fruit, herbs, spices, or wood based on a style other than lambic. Could be another Classic Style (normally sour or not), or something more generic. These beers may be aged in wood, but any wood character should not be a primary or dominant flavor.",
+    "comparison": "Style ComparisonLike a fruit, herb, spice, or wood beer, but sour and/or funky.\n",
+    "history": "HistoryModern American craft beer interpretations of Belgian wild ales, or experimentations inspired by Belgian wild ales.\n",
+    "ingredients": "Characteristic IngredientsVirtually any style of beer. Any combination of Saccharomyces, Brettanomyces, Lactobacillus, Pediococcus, or other similar fermenters. Can also be a blend of styles. While cherries, raspberries, and peaches are most common, other fruits can be used as well. Vegetables with fruit-like characteristics (chile, rhubarb, pumpkin, etc.) may also be used. Wood or barrel aging is very common, but not required.\n",
+    "statistics": [],
+    "commercial": "Commercial Examples Cascade Bourbonic Plague, Jester King Atrial Rubicite, New Belgium Eric\u2019s Ale, New Glarus Belgian Red, Russian River Supplication, The Lost Abbey Cuvee de Tomme. ",
+    "attributes": [
+        {
+            "tag": "craft-style",
+            "link": "https://dev.bjcp.org/style-tags/craft-style/"
+        },
+        {
+            "tag": "fruit",
+            "link": "https://dev.bjcp.org/style-tags/fruit/"
+        },
+        {
+            "tag": "north-america",
+            "link": "https://dev.bjcp.org/style-tags/north-america/"
+        },
+        {
+            "tag": "sour",
+            "link": "https://dev.bjcp.org/style-tags/sour/"
+        },
+        {
+            "tag": "specialty-beer",
+            "link": "https://dev.bjcp.org/style-tags/specialty-beer/"
+        },
+        {
+            "tag": "wild-fermentation",
+            "link": "https://dev.bjcp.org/style-tags/wild-fermentation/"
+        }
+    ],
+    "name": "28C. Wild Specialty Beer ",
+    "id": "28C",
+    "categoryId": "28",
+    "category": "28. American Wild Ale ",
+    "entry-content": "\nThe name American Wild Ale is in common use by craft brewers and homebrewers. However, the word Wild does not imply that these beers are necessarily spontaneously-fermented; rather, it indicates that they are influenced by microbes other than traditional brewer\u2019s yeasts. This category is intended for a wide range of beers that do not fit traditional European sour or wild styles. All of the styles in this category are essentially specialty beers where many creative interpretations are possible, and the styles are defined only by the use of specific fermentation profiles and ingredients. As specialty styles, the mandatory description provided by the entrant is of the utmost importance to the judge.\nThroughout this category, Brett is used as an abbreviation for Brettanomyces. This is the term most craft brewers and homebrewers will use in conversation, if not in formal communications.\n"
+}

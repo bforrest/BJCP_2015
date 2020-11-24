@@ -1,0 +1,77 @@
+{
+    "impression": "Overall ImpressionA sour, fruity, red wine-like Belgian-style ale with interesting supportive malt flavors and fruit complexity. The dry finish and tannin completes the mental image of a fine red wine.\n",
+    "appearance": "Deep red, burgundy to reddish-brown in color. Good clarity. White to very pale tan head. Average to good head retention.",
+    "aroma": "Complex fruity-sour profile with supporting malt that often gives a wine-like impression. Fruitiness is high, and reminiscent of black cherries, oranges, plums or red currants. There are often low to medium-low vanilla and/or chocolate notes. Spicy phenols can be present in low amounts for complexity. The sour aroma ranges from balanced to intense. Prominent vinegary acetic character is inappropriate. No hop aroma. Diacetyl is perceived only in very minor quantities, if at all, as a complementary aroma.",
+    "flavor": "FlavorIntense fruitiness commonly includes plum, orange, black cherry or red currant flavors. A mild vanilla and/or chocolate character is often present. Spicy phenols can be present in low amounts for complexity. Sour flavor ranges from complementary to intense, and can have an acidic bite. Malty flavors range from complementary to prominent, and often have a soft toasty-rich quality. Generally as the sour character increases, the malt character blends to more of a background flavor (and vice versa). No hop flavor. Restrained hop bitterness. An acidic, tannic bitterness is often present in low to moderate amounts, and adds an aged red wine-like character and finish. Prominent vinegary acetic character is inappropriate. Diacetyl is perceived only in very minor quantities, if at all, as a complementary flavor. Balanced to the malt side, but dominated by the fruity, sour, wine-like impression.\n",
+    "mouthfeel": "MouthfeelMedium bodied. Low to medium carbonation. Low to medium astringency, like a well-aged red wine, often with a prickly acidity. Deceivingly light and crisp on the palate although a somewhat sweet finish is not uncommon.\n",
+    "comments": "Long aging and blending of young and well-aged beer often occurs, adding to the smoothness and complexity, though the aged product is sometimes released as a connoisseur\u2019s beer. Known as the Burgundy of Belgium, it is more wine-like than any other beer style. The reddish color is a product of the malt although an extended, less-than-rolling portion of the boil may help add an attractive Burgundy hue. Aging will also darken the beer. The Flanders red is more acetic (but never vinegar-like) and the fruity flavors more reminiscent of a red wine than an Oud Bruin. Can have an apparent attenuation of up to 98%.",
+    "comparison": "Style ComparisonLess malty-rich than an Oud Bruin, often with more of a fruity-tart profile.\n",
+    "history": "HistoryAn indigenous beer of West Flanders, typified by the products of the Rodenbach brewery, established in 1820 in West Flanders but reflective of earlier brewing traditions. The beer is aged for up to two years, often in huge oaken barrels which contain the resident bacteria necessary to sour the beer. It was once common in Belgium and England to blend old beer with young to balance the sourness and acidity found in aged beer. While blending of batches for consistency is now common among larger breweries, this type of blending is a fading art.\n",
+    "ingredients": "Characteristic IngredientsA base of Vienna and/or Munich malts, light to medium cara-malts, and a small amount of Special B are used with up to 20% maize. Low alpha acid continental hops are commonly used (avoid high alpha or distinctive American hops). Saccharomyces, Lactobacillus and Brettanomyces (and acetobacter) contribute to the fermentation and eventual flavor.\n",
+    "statistics": [
+        {
+            "stat": "IBU",
+            "value": "10 - 25"
+        },
+        {
+            "stat": "SRM",
+            "value": "10 - 16"
+        },
+        {
+            "stat": "OG",
+            "value": "1.048 - 1.057"
+        },
+        {
+            "stat": "FG",
+            "value": "1.002 - 1.012"
+        },
+        {
+            "stat": "ABV",
+            "value": "4.6% - 6.5%"
+        }
+    ],
+    "commercial": "Commercial Examples Cuv\u00e9e des Jacobins Rouge, Duchesse de Bourgogne, Rodenbach Grand Cru, Rodenbach Klassiek, Vichtenaar Flemish Ale. ",
+    "attributes": [
+        {
+            "tag": "amber-color",
+            "link": "https://dev.bjcp.org/style-tags/amber-color/"
+        },
+        {
+            "tag": "balanced",
+            "link": "https://dev.bjcp.org/style-tags/balanced/"
+        },
+        {
+            "tag": "sour",
+            "link": "https://dev.bjcp.org/style-tags/sour/"
+        },
+        {
+            "tag": "sour-ale-family",
+            "link": "https://dev.bjcp.org/style-tags/sour-ale-family/"
+        },
+        {
+            "tag": "standard-strength",
+            "link": "https://dev.bjcp.org/style-tags/standard-strength/"
+        },
+        {
+            "tag": "top-fermented",
+            "link": "https://dev.bjcp.org/style-tags/top-fermented/"
+        },
+        {
+            "tag": "traditional-style",
+            "link": "https://dev.bjcp.org/style-tags/traditional-style/"
+        },
+        {
+            "tag": "western-europe",
+            "link": "https://dev.bjcp.org/style-tags/western-europe/"
+        },
+        {
+            "tag": "wood",
+            "link": "https://dev.bjcp.org/style-tags/wood/"
+        }
+    ],
+    "name": "23B. Flanders Red Ale ",
+    "id": "23B",
+    "categoryId": "23",
+    "category": "23. European Sour Ale ",
+    "entry-content": "\nThis category contains the traditional sour beer styles of Europe that are still produced, many (but not all) with a wheat component. Most have low bitterness, with the sourness of the beer providing the balance that hop bitterness would otherwise contribute. Some are sweetened or flavored, whether at the brewery or upon consumption.\n"
+}

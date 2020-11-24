@@ -1,0 +1,69 @@
+{
+    "impression": "Overall ImpressionEasy-drinking, approachable, malt-oriented American craft beer, often with interesting fruit, hop, or character malt notes. Well-balanced and clean, is a refreshing pint without aggressive flavors.\n",
+    "appearance": "Light yellow to deep gold in color. Clear to brilliant. Low to medium white head with fair to good retention.",
+    "aroma": "Light to moderate sweet malty aroma, possibly with a light bready or caramelly note. Low to moderate fruitiness is optional, but acceptable. May have a low to medium hop aroma, and can reflect almost any hop variety although citrusy, floral, fruity, and spicy notes are common.",
+    "flavor": "FlavorInitial soft malty sweetness, but optionally some light character malt flavor (e.g., bread, toast, biscuit, wheat) can also be present. Caramel flavors typically absent; if present, they are typically low-color caramel notes. Low to medium fruity esters optional, but are welcome. Light to moderate hop flavor (any variety), but shouldn\u2019t be overly aggressive. Medium-low to medium bitterness, but the balance is normally towards the malt or even between malt and hops. Finishes medium-dry to slightly malty-sweet; impression of sweetness is often an expression of lower bitterness than actual residual sweetness.\n",
+    "mouthfeel": "MouthfeelMedium-light to medium body. Medium to high carbonation. Smooth without being heavy.\n",
+    "comments": "Brewpub alternative to standard American lagers, typically offered as an entry-level craft beer.",
+    "comparison": "Style ComparisonTypically has more flavor than American Lagers and Cream Ales. Less bitterness than an American Pale Ale.\n",
+    "history": "HistoryAn American craft beer style produced by many microbreweries and brewpubs, particularly those who cannot produce lagers. Regional variations exist (many US West Coast brewpub examples are more assertive, like pale ales) but in most areas this beer is designed as the least challenging beer in their lineup.\n",
+    "ingredients": "Characteristic IngredientsGenerally all malt, but can include up to 25% wheat malt and some sugar adjuncts. Any hop variety can be used. Clean American, lightly fruity English, or K\u00f6lsch yeast. May also be made with lager yeast, or cold-conditioned. Some versions may have honey, spices and/or fruit added, although if any of these ingredients are stronger than a background flavor they should be entered in those specialty categories instead.\n",
+    "statistics": [
+        {
+            "stat": "IBU",
+            "value": "15 - 28"
+        },
+        {
+            "stat": "SRM",
+            "value": "3 - 6"
+        },
+        {
+            "stat": "OG",
+            "value": "1.038 - 1.054"
+        },
+        {
+            "stat": "FG",
+            "value": "1.008 - 1.013"
+        },
+        {
+            "stat": "ABV",
+            "value": "3.8% - 5.5%"
+        }
+    ],
+    "commercial": "Commercial Examples Kona Big Wave Golden Ale, Pelican Kiwanda Cream Ale, Russian River Aud Blonde, Victory Summer Love, Widmer Citra Summer Blonde Brew. ",
+    "attributes": [
+        {
+            "tag": "any-fermentation",
+            "link": "https://dev.bjcp.org/style-tags/any-fermentation/"
+        },
+        {
+            "tag": "balanced",
+            "link": "https://dev.bjcp.org/style-tags/balanced/"
+        },
+        {
+            "tag": "craft-style",
+            "link": "https://dev.bjcp.org/style-tags/craft-style/"
+        },
+        {
+            "tag": "north-america",
+            "link": "https://dev.bjcp.org/style-tags/north-america/"
+        },
+        {
+            "tag": "pale-ale-family",
+            "link": "https://dev.bjcp.org/style-tags/pale-ale-family/"
+        },
+        {
+            "tag": "pale-color",
+            "link": "https://dev.bjcp.org/style-tags/pale-color/"
+        },
+        {
+            "tag": "standard-strength",
+            "link": "https://dev.bjcp.org/style-tags/standard-strength/"
+        }
+    ],
+    "name": "18A. Blonde Ale ",
+    "id": "18A",
+    "categoryId": "18",
+    "category": "18. Pale American Ale ",
+    "entry-content": "\nThis category contains modern American ales of average strength and light color that are moderately malty to moderately bitter.\n"
+}

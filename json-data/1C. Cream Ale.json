@@ -1,0 +1,69 @@
+{
+    "impression": "Overall ImpressionA clean, well-attenuated, flavorful American \u201clawnmower\u201d beer. Easily drinkable and refreshing, with more character than typical American lagers.\n",
+    "appearance": "Pale straw to moderate gold color, although usually on the pale side. Low to medium head with medium to high carbonation. Fair head retention. Brilliant, sparkling clarity.",
+    "aroma": "Medium-low to low malt notes, with a sweet, corn-like aroma. Low levels of DMS are allowable, but are not required. Hop aroma medium low to none, and can be of any variety although floral, spicy, or herbal notes are most common. Overall, a subtle aroma with neither hops nor malt dominating. Low fruity esters are optional.",
+    "flavor": "FlavorLow to medium-low hop bitterness. Low to moderate maltiness and sweetness, varying with gravity and attenuation. Usually well-attenuated. Neither malt nor hops dominate the palate. A low to moderate corny flavor is commonly found, as is light DMS (optional). Finish can vary from somewhat dry to faintly sweet. Low fruity esters are optional. Low to medium-low hop flavor (any variety, but typically floral, spicy, or herbal).\n",
+    "mouthfeel": "MouthfeelGenerally light and crisp, although body can reach medium. Smooth mouthfeel with medium to high attenuation; higher attenuation levels can lend a \u201cthirst quenching\u201d quality. High carbonation.\n",
+    "comments": "Pre-prohibition Cream Ales were slightly stronger, hoppier (including some dry hopping) and more bitter (25-30+ IBUs). These versions should be entered in the historical category. Most commercial examples are in the 1.050\u20131.053 OG range, and bitterness rarely rises above 20 IBUs.",
+    "comparison": "Style ComparisonSimilar to a Standard American Lager, but with more character.\n",
+    "history": "HistoryA sparkling or present-use ale that existed in the 1800s and survived prohibition. An ale version of the American lager style. Produced by ale brewers to compete with lager brewers in Canada and the Northeast, Mid-Atlantic, and Midwest states. Originally known as sparkling or present use ales, lager strains were (and sometimes still are) used by some brewers, but were not historically mixed with ale strains. Many examples are kr\u00e4usened to achieve carbonation. Cold conditioning isn\u2019t traditional, although modern brewers sometimes use it.\n",
+    "ingredients": "Characteristic IngredientsAmerican ingredients most commonly used. A grain bill of six-row malt, or a combination of six-row and North American two-row, is common. Adjuncts can include up to 20% maize in the mash, and up to 20% glucose or other sugars in the boil. Any variety of hops can be used for bittering and finishing.\n",
+    "statistics": [
+        {
+            "stat": "IBU",
+            "value": "8 - 20"
+        },
+        {
+            "stat": "SRM",
+            "value": "2.5 - 5"
+        },
+        {
+            "stat": "OG",
+            "value": "1.042 - 1.055"
+        },
+        {
+            "stat": "FG",
+            "value": "1.006 - 1.012"
+        },
+        {
+            "stat": "ABV",
+            "value": "4.2% - 5.6%"
+        }
+    ],
+    "commercial": "Commercial Examples Genesee Cream Ale, Liebotschaner Cream Ale, Little Kings Cream Ale, New Glarus Spotted Cow, Old Style, Sleeman Cream Ale. ",
+    "attributes": [
+        {
+            "tag": "any-fermentation",
+            "link": "https://dev.bjcp.org/style-tags/any-fermentation/"
+        },
+        {
+            "tag": "balanced",
+            "link": "https://dev.bjcp.org/style-tags/balanced/"
+        },
+        {
+            "tag": "north-america",
+            "link": "https://dev.bjcp.org/style-tags/north-america/"
+        },
+        {
+            "tag": "pale-ale-family",
+            "link": "https://dev.bjcp.org/style-tags/pale-ale-family/"
+        },
+        {
+            "tag": "pale-color",
+            "link": "https://dev.bjcp.org/style-tags/pale-color/"
+        },
+        {
+            "tag": "standard-strength",
+            "link": "https://dev.bjcp.org/style-tags/standard-strength/"
+        },
+        {
+            "tag": "traditional-style",
+            "link": "https://dev.bjcp.org/style-tags/traditional-style/"
+        }
+    ],
+    "name": "1C. Cream Ale ",
+    "id": "1C",
+    "categoryId": "1",
+    "category": "1. Standard American Beer ",
+    "entry-content": "\nThis category describes everyday American beers that have a wide public appeal. Containing both ales and lagers, the beers of this category are not typically complex, and have smooth, accessible flavors. The ales tend to have lager-like qualities, or are designed to appeal to mass-market lager drinkers as crossover beers. Mass-market beers with a more international appeal or origin are described in the International Lager category.\n"
+}

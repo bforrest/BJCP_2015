@@ -1,0 +1,73 @@
+{
+    "impression": "Overall ImpressionAn intensely hoppy, fairly strong pale ale without the big, rich, complex maltiness and residual sweetness and body of an American barleywine. Strongly hopped, but clean, dry, and lacking harshness. Drinkability is an important characteristic; this should not be a heavy, sipping beer.\n",
+    "appearance": "Color ranges from golden to light orange-copper; most modern versions are fairly pale. Good clarity, although unfiltered dry-hopped versions may be a bit hazy. Moderate-sized, persistent, white to off-white head.",
+    "aroma": "A prominent to intense hop aroma that typically showcases American or New World hop characteristics (citrus, floral, pine, resinous, spicy, tropical fruit, stone fruit, berry, melon, etc.). Most versions are dry hopped and can have an additional resinous or grassy aroma, although this is not absolutely required. Some clean malty sweetness may be found in the background. Fruitiness, either from esters or hops, may also be detected in some versions, although a neutral fermentation character is typical. Some alcohol can usually be noted, but it should not have a \u201chot\u201d character.",
+    "flavor": "FlavorHop flavor is strong and complex, and can reflect the characteristics of modern American or New World hop varieties (citrus, floral, pine, resinous, spicy, tropical fruit, stone fruit, berry, melon, etc.). High to absurdly high hop bitterness. Low to medium malt flavor, generally clean and grainy-malty although low levels of caramel or toasty flavors are acceptable. Low to medium fruitiness is acceptable but not required. A long, lingering bitterness is usually present in the aftertaste but should not be harsh. Dry to medium-dry finish; should not finish sweet or heavy. A light, clean, smooth alcohol flavor is not a fault. Oak is inappropriate in this style. May be slightly sulfury, but most examples do not exhibit this character.\n",
+    "mouthfeel": "MouthfeelMedium-light to medium body, with a smooth texture. Medium to medium-high carbonation. No harsh hop-derived astringency. Restrained, smooth alcohol warming acceptable.\n",
+    "comments": "A showcase for hops, yet remaining quite drinkable. The adjective \u201cdouble\u201d is arbitrary and simply implies a stronger version of an IPA; \u201cimperial,\u201d \u201cextra,\u201d \u201cextreme,\u201d or any other variety of adjectives would be equally valid, although the modern American market seems to have now coalesced around the \u201cdouble\u201d term.",
+    "comparison": "Style ComparisonBigger than either an English or American IPA in both alcohol strength and overall hop level (bittering and finish). Less malty, lower body, less rich and a greater overall hop intensity than an American Barleywine. Typically not as high in gravity/alcohol as a barleywine, since high alcohol and malt tend to limit drinkability.\n",
+    "history": "HistoryAn American craft beer innovation first developed in the mid-late 1990s reflecting the trend of American craft brewers \u201cpushing the envelope\u201d to satisfy the need of hop aficionados for increasingly intense products. Became more mainstream and popular throughout the 2000s, and inspired additional IPA creativity.\n",
+    "ingredients": "Characteristic IngredientsClean 2-row malt is typical as a base grain; an excessively complex grist can be distracting. Crystal-type malts often muddy the hop flavors, and are generally considered undesirable in significant quantities. Sugar or other highly fermentable adjuncts are often used to increase attenuation, as are lower-temperature mash rests. Can use a complex variety of hops, typically American or New World, often with cutting-edge profiles providing distinctive differences. Modern hops with unusual characteristics are not out of style. American yeast that can give a clean or slightly fruity profile.\n",
+    "statistics": [
+        {
+            "stat": "IBU",
+            "value": "60 - 120"
+        },
+        {
+            "stat": "SRM",
+            "value": "6 - 14"
+        },
+        {
+            "stat": "OG",
+            "value": "1.065 - 1.085"
+        },
+        {
+            "stat": "FG",
+            "value": "1.008 - 1.018"
+        },
+        {
+            "stat": "ABV",
+            "value": "7.5% - 10%"
+        }
+    ],
+    "commercial": "Commercial Examples Avery Maharaja, Fat Heads Hop Juju, Firestone Walker Double Jack, Port Brewing Hop 15, Russian River Pliny the Elder, Stone Ruination IPA, Three Floyds Dreadnaught. ",
+    "attributes": [
+        {
+            "tag": "bitter",
+            "link": "https://dev.bjcp.org/style-tags/bitter/"
+        },
+        {
+            "tag": "craft-style",
+            "link": "https://dev.bjcp.org/style-tags/craft-style/"
+        },
+        {
+            "tag": "hoppy",
+            "link": "https://dev.bjcp.org/style-tags/hoppy/"
+        },
+        {
+            "tag": "ipa-family",
+            "link": "https://dev.bjcp.org/style-tags/ipa-family/"
+        },
+        {
+            "tag": "north-america",
+            "link": "https://dev.bjcp.org/style-tags/north-america/"
+        },
+        {
+            "tag": "pale-color",
+            "link": "https://dev.bjcp.org/style-tags/pale-color/"
+        },
+        {
+            "tag": "top-fermented",
+            "link": "https://dev.bjcp.org/style-tags/top-fermented/"
+        },
+        {
+            "tag": "very-high-strength",
+            "link": "https://dev.bjcp.org/style-tags/very-high-strength/"
+        }
+    ],
+    "name": "22A. Double IPA ",
+    "id": "22A",
+    "categoryId": "22",
+    "category": "22. Strong American Ale ",
+    "entry-content": "\nThis category includes modern American strong ales with a varying balance of malt and hops. The category is defined mostly by alcohol strength and a lack of roast.\n"
+}

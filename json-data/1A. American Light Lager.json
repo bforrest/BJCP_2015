@@ -1,0 +1,73 @@
+{
+    "impression": "Overall ImpressionHighly carbonated, very light-bodied, nearly flavorless lager designed to be consumed very cold. Very refreshing and thirst quenching.\n",
+    "appearance": "Very pale straw to pale yellow color. White, frothy head seldom persists. Very clear.",
+    "aroma": "Low to no malt aroma, although it can be perceived as grainy, sweet, or corn-like if present. Hop aroma is light to none, with a spicy or floral hop character if present. While a clean fermentation character is desirable, a light amount of yeast character (particularly a light apple fruitiness) is not a fault. Light DMS is not a fault.",
+    "flavor": "FlavorRelatively neutral palate with a crisp and dry finish and a low to very low grainy or corn-like flavor that might be perceived as sweetness due to the low bitterness. Hop flavor ranges from none to low levels, and can have a floral, spicy, or herbal quality (although rarely strong enough to detect). Low to very low hop bitterness. Balance may vary from slightly malty to slightly bitter, but is relatively close to even. High levels of carbonation may accentuate the crispness of the dry finish. Clean lager fermentation character.\n",
+    "mouthfeel": "MouthfeelVery light (sometimes watery) body. Very highly carbonated with slight carbonic bite on the tongue.\n",
+    "comments": "Designed to appeal to as broad a range of the general public as possible. Strong flavors are a fault.",
+    "comparison": "Style ComparisonA lighter-bodied, lower-alcohol, lower calorie version of an American Lager. Less hop character and bitterness than a Leichtbier.\n",
+    "history": "HistoryCoors briefly made a light lager in the early 1940s. Modern versions were first produced by Rheingold in 1967 to appeal to diet-conscious drinkers, but only became popular starting in 1973 after Miller Brewing acquired the recipe and marketed the beer heavily to sports fans with the \u201ctastes great, less filling\u201d campaign. Beers of this genre became the largest sellers in the United States in the 1990s.\n",
+    "ingredients": "Characteristic IngredientsTwo- or six-row barley with high percentage (up to 40%) of rice or corn as adjuncts. Additional enzymes can further lighten the body and lower carbohydrates.\n",
+    "statistics": [
+        {
+            "stat": "IBU",
+            "value": "8 - 12"
+        },
+        {
+            "stat": "SRM",
+            "value": "2 - 3"
+        },
+        {
+            "stat": "OG",
+            "value": "1.028 - 1.040"
+        },
+        {
+            "stat": "FG",
+            "value": "0.998 - 1.008"
+        },
+        {
+            "stat": "ABV",
+            "value": "2.8% - 4.2%"
+        }
+    ],
+    "commercial": "Commercial Examples Bud Light, Coors Light, Keystone Light, Michelob Light, Miller Lite, Old Milwaukee Light. ",
+    "attributes": [
+        {
+            "tag": "balanced",
+            "link": "https://dev.bjcp.org/style-tags/balanced/"
+        },
+        {
+            "tag": "bottom-fermented",
+            "link": "https://dev.bjcp.org/style-tags/bottom-fermented/"
+        },
+        {
+            "tag": "lagered",
+            "link": "https://dev.bjcp.org/style-tags/lagered/"
+        },
+        {
+            "tag": "north-america",
+            "link": "https://dev.bjcp.org/style-tags/north-america/"
+        },
+        {
+            "tag": "pale-color",
+            "link": "https://dev.bjcp.org/style-tags/pale-color/"
+        },
+        {
+            "tag": "pale-lager-family",
+            "link": "https://dev.bjcp.org/style-tags/pale-lager-family/"
+        },
+        {
+            "tag": "session-strength",
+            "link": "https://dev.bjcp.org/style-tags/session-strength/"
+        },
+        {
+            "tag": "traditional-style",
+            "link": "https://dev.bjcp.org/style-tags/traditional-style/"
+        }
+    ],
+    "name": "1A. American Light Lager ",
+    "id": "1A",
+    "categoryId": "1",
+    "category": "1. Standard American Beer ",
+    "entry-content": "\nThis category describes everyday American beers that have a wide public appeal. Containing both ales and lagers, the beers of this category are not typically complex, and have smooth, accessible flavors. The ales tend to have lager-like qualities, or are designed to appeal to mass-market lager drinkers as crossover beers. Mass-market beers with a more international appeal or origin are described in the International Lager category.\n"
+}

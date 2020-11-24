@@ -1,0 +1,77 @@
+{
+    "impression": "Overall ImpressionA very dark, sweet, full-bodied, slightly roasty ale that can suggest coffee-and-cream, or sweetened espresso.\n",
+    "appearance": "Very dark brown to black in color. Can be opaque (if not, it should be clear). Creamy tan to brown head.",
+    "aroma": "Mild roasted grain aroma, sometimes with coffee and/or chocolate notes. An impression of cream-like sweetness often exists. Fruitiness can be low to moderately high. Diacetyl low to none. Hop aroma low to none, with floral or earthy notes.",
+    "flavor": "FlavorDark roasted grain/malt impression with coffee and/or chocolate flavors dominate the palate. Hop bitterness is moderate. Medium to high sweetness provides a counterpoint to the roasted character and hop bitterness, and lasts into the finish. Low to moderate fruity esters. Diacetyl low to none. The balance between dark grains/malts and sweetness can vary, from quite sweet to moderately dry and somewhat roasty.\n",
+    "mouthfeel": "MouthfeelMedium-full to full-bodied and creamy. Low to moderate carbonation. High residual sweetness from unfermented sugars enhances the full-tasting mouthfeel.\n",
+    "comments": "Gravities are low in England, higher in exported and US products. Variations exist, with the level of residual sweetness, the intensity of the roast character, and the balance between the two being the variables most subject to interpretation. Some versions in England are very sweet (low attenuation) and also low in ABV (Tennent\u2019s Sweetheart Stout is 2%), but is an outlier compared to the other examples. These guidelines mostly describe the higher gravity, more balanced, export versions rather than the low alcohol, very sweet versions that many find quite difficult to drink.",
+    "comparison": "Style ComparisonMuch sweeter and less bitter than other stouts (except the stronger tropical stout). The roast character is mild, not burnt like other stouts. Somewhat similar in balance to oatmeal stouts, albeit with more sweetness.\n",
+    "history": "HistoryAn English style of stout developed in the early 1900s. Historically known as \u201cMilk\u201d or \u201cCream\u201d stouts, legally this designation is no longer permitted in England (but is acceptable elsewhere). The \u201cmilk\u201d name is derived from the use of lactose, or milk sugar, as a sweetener. Originally marketed as a tonic for invalids and nursing mothers.\n",
+    "ingredients": "Characteristic IngredientsThe sweetness in most Sweet Stouts comes from a lower bitterness level than most other stouts and a high percentage of unfermentable dextrins. Lactose, an unfermentable sugar, is frequently added to provide additional residual sweetness. Base of pale malt, and may use roasted barley, black malt, chocolate malt, crystal malt, and adjuncts such as maize or brewing sugars.\n",
+    "statistics": [
+        {
+            "stat": "IBU",
+            "value": "20 - 40"
+        },
+        {
+            "stat": "SRM",
+            "value": "30 - 40"
+        },
+        {
+            "stat": "OG",
+            "value": "1.044 - 1.060"
+        },
+        {
+            "stat": "FG",
+            "value": "1.012 - 1.024"
+        },
+        {
+            "stat": "ABV",
+            "value": "4% - 6%"
+        }
+    ],
+    "commercial": "Commercial Examples Bristol Beer Factory Milk Stout, Left Hand Milk Stout, Lancaster Milk Stout, Mackeson's XXX Stout, Marston\u2019s Oyster Stout, Samuel Adams Cream Stout. ",
+    "attributes": [
+        {
+            "tag": "british-isles",
+            "link": "https://dev.bjcp.org/style-tags/british-isles/"
+        },
+        {
+            "tag": "dark-color",
+            "link": "https://dev.bjcp.org/style-tags/dark-color/"
+        },
+        {
+            "tag": "malty",
+            "link": "https://dev.bjcp.org/style-tags/malty/"
+        },
+        {
+            "tag": "roasty",
+            "link": "https://dev.bjcp.org/style-tags/roasty/"
+        },
+        {
+            "tag": "standard-strength",
+            "link": "https://dev.bjcp.org/style-tags/standard-strength/"
+        },
+        {
+            "tag": "stout-family",
+            "link": "https://dev.bjcp.org/style-tags/stout-family/"
+        },
+        {
+            "tag": "sweet",
+            "link": "https://dev.bjcp.org/style-tags/sweet/"
+        },
+        {
+            "tag": "top-fermented",
+            "link": "https://dev.bjcp.org/style-tags/top-fermented/"
+        },
+        {
+            "tag": "traditional-style",
+            "link": "https://dev.bjcp.org/style-tags/traditional-style/"
+        }
+    ],
+    "name": "16A. Sweet Stout ",
+    "id": "16A",
+    "categoryId": "16",
+    "category": "16. Dark British Beer ",
+    "entry-content": "\nThis category contains average to strong, bitter to sweet, modern British and Irish stouts that originated in England even if some are now more widely associated with Ireland. In this case, \u201cBritish\u201d means the broader British Isles not Great Britain.\n"
+}

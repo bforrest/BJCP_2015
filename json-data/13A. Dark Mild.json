@@ -1,0 +1,69 @@
+{
+    "impression": "Overall ImpressionA dark, low-gravity, malt-focused British session ale readily suited to drinking in quantity. Refreshing, yet flavorful, with a wide range of dark malt or dark sugar expression.\n",
+    "appearance": "Copper to dark brown or mahogany color. A few paler examples (medium amber to light brown) exist. Generally clear, although is traditionally unfiltered. Low to moderate off-white to tan head; retention may be poor.",
+    "aroma": "Low to moderate malt aroma, and may have some fruitiness. The malt expression can take on a wide range of character, which can include caramel, toffee, grainy, toasted, nutty, chocolate, or lightly roasted. Little to no hop aroma, earthy or floral if present. Very low to no diacetyl.",
+    "flavor": "FlavorGenerally a malty beer, although may have a very wide range of malt- and yeast-based flavors (e.g., malty, sweet, caramel, toffee, toast, nutty, chocolate, coffee, roast, fruit, licorice, plum, raisin). Can finish sweet to dry. Versions with darker malts may have a dry, roasted finish. Low to moderate bitterness, enough to provide some balance but not enough to overpower the malt. Fruity esters moderate to none. Diacetyl and hop flavor low to none.\n",
+    "mouthfeel": "MouthfeelLight to medium body. Generally low to medium-low carbonation. Roast-based versions may have a light astringency. Sweeter versions may seem to have a rather full mouthfeel for the gravity.\n",
+    "comments": "Most are low-gravity session beers around 3.2%, although some versions may be made in the stronger (4%+) range for export, festivals, seasonal and/or special occasions. Generally served on cask; session-strength bottled versions don\u2019t often travel well. A wide range of interpretations are possible. Pale versions exist, but these are even more rare than dark milds; these guidelines only describe the modern dark version.",
+    "comparison": "Style ComparisonSome versions may seem like lower-gravity modern English porters. Much less sweet than London Brown Ale.\n",
+    "history": "HistoryHistorically, \u2018mild\u2019 was simply an unaged beer, and could be used as an adjective to distinguish between aged or more highly hopped keeping beers. Modern milds trace their roots to the weaker X-type ales of the 1800s, although dark milds did not appear until the 20th century. In current usage, the term implies a lower-strength beer with less hop bitterness than bitters. The guidelines describe the modern British version. The term \u2018mild\u2019 is currently somewhat out of favor with consumers, and many breweries no longer use it. Increasingly rare. There is no historic connection or relationship between Mild and Porter.\n",
+    "ingredients": "",
+    "statistics": [
+        {
+            "stat": "IBU",
+            "value": "10 - 25"
+        },
+        {
+            "stat": "SRM",
+            "value": "12 - 25"
+        },
+        {
+            "stat": "OG",
+            "value": "1.030 - 1.038"
+        },
+        {
+            "stat": "FG",
+            "value": "1.008 - 1.013"
+        },
+        {
+            "stat": "ABV",
+            "value": "3% - 3.8%"
+        }
+    ],
+    "commercial": "Commercial Examples Banks's Mild, Cain's Dark Mild, Highgate Dark Mild, Brain\u2019s Dark, Moorhouse Black Cat, Rudgate Ruby Mild, Theakston Traditional Mild. ",
+    "attributes": [
+        {
+            "tag": "british-isles",
+            "link": "https://dev.bjcp.org/style-tags/british-isles/"
+        },
+        {
+            "tag": "brown-ale-family",
+            "link": "https://dev.bjcp.org/style-tags/brown-ale-family/"
+        },
+        {
+            "tag": "dark-color",
+            "link": "https://dev.bjcp.org/style-tags/dark-color/"
+        },
+        {
+            "tag": "malty",
+            "link": "https://dev.bjcp.org/style-tags/malty/"
+        },
+        {
+            "tag": "session-strength",
+            "link": "https://dev.bjcp.org/style-tags/session-strength/"
+        },
+        {
+            "tag": "top-fermented",
+            "link": "https://dev.bjcp.org/style-tags/top-fermented/"
+        },
+        {
+            "tag": "traditional-style",
+            "link": "https://dev.bjcp.org/style-tags/traditional-style/"
+        }
+    ],
+    "name": "13A. Dark Mild ",
+    "id": "13A",
+    "categoryId": "13",
+    "category": "13. Brown British Beer ",
+    "entry-content": "\nWhile Dark Mild, Brown Ale, and English Porter may have long and storied histories, these guidelines describe the modern versions. They are grouped together for judging purposes only since they often have similar flavors and balance, not because of any implied common ancestry. The similar characteristics are low to moderate strength, dark color, generally malty balance, and British ancestry. These styles have no historic relationship to each other; especially, none of these styles evolved into any of the others, or was ever a component of another. The category name was never used historically to describe this grouping of beers; it is our name for the judging category. \u201cBrown Beer\u201d was a distinct and important historical product, and is not related to this category name.\n"
+}

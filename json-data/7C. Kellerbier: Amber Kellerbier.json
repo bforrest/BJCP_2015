@@ -1,0 +1,69 @@
+{
+    "impression": "Overall ImpressionA young, unfiltered, and unpasteurized beer that is between a Helles and M\u00e4rzen in color, spicier in the hops with greater attenuation. Interpretations range in color and balance, but remain in the drinkable 4.8% ABV neighborhood. Balance ranges from the dry, spicy and pale-colored interpretations by St. Georgen and L\u00f6wenbr\u00e4u of Buttenheim, to darker and maltier interpretations in the Fr\u00e4nkische Schweiz. This style is above all a method of producing simple drinkable beers for neighbors out of local ingredients to be served fresh. Balance with a focus on drinkability and digestibility is important.\n",
+    "appearance": "Moderately cloudy to clear depending on age, but never extremely cloudy or murky. Gold to deep reddish-amber color. Off-white, creamy head. When served on cask, can have low carbonation and very low head.",
+    "aroma": "Moderate intensity of German malt, typically rich, bready, somewhat toasty, with light bread crust notes. Moderately-low to moderate spicy peppery hop aroma. Very low to low diacetyl, occasionally low to moderately-low sulfur and very low green apple or other yeast-derived notes. Caramel, biscuity, or roasted malt aroma is inappropriate.",
+    "flavor": "FlavorInitial malt flavor may suggest sweetness, but finish is moderately dry to dry, and slightly bitter. Distinctive and complex maltiness often includes a bready-toasty aspect. Hop bitterness is moderate to moderately high, and spicy or herbal hop flavor is low to moderately high. Balance can be either on the malt or hop side, but the finish is not sweet. Noticeable caramel or roasted malt flavors are inappropriate. Very low to low diacetyl. Possible very low green apple or other yeast-derived notes. Smooth, malty aftertaste.\n",
+    "mouthfeel": "MouthfeelMedium body, with a creamy texture and medium carbonation. Fully fermented, without a sweet or cloying impression.\n",
+    "comments": "The best examples of Amber Kellerbier are served only on tap at many of the small Franconia area breweries (as this is a beer best served fresh and the serving style being an important part of the style). Bottled versions are not likely to have the freshness, hop character and young beer notes exhibited by the draft versions.",
+    "comparison": "Style ComparisonMost commonly, this style is a young, unfiltered, unpasteurized, hoppier version of Munich Helles or M\u00e4rzen. Fr\u00e4nkische Schweiz versions can edge up to dark amber or brown.\n",
+    "history": "HistoryThis was the classic, historical style before it was adapted in other areas. This original, older style of Kellerbier would have simply been beer served from local taverns that did not lager long enough to drop bright. Many breweries in Franconia would use some of this young beer during the summer months, for festivals such as the Annafest (est. 1840) in July in Forchheim, where it was traditional to drink directly from the lagering vessels.\n",
+    "ingredients": "Characteristic IngredientsGrist varies, although traditional German versions emphasized Franconian pale and color malt. The notion of elegance is derived from the high-quality local ingredients, particularly the malts. Spalt or other typically spicy local hops are most common. Frugal Franconian brewers rarely used decoction brewing due to the cost of energy.\n",
+    "statistics": [
+        {
+            "stat": "IBU",
+            "value": "25 - 40"
+        },
+        {
+            "stat": "SRM",
+            "value": "7 - 17"
+        },
+        {
+            "stat": "OG",
+            "value": "1.048 - 1.054"
+        },
+        {
+            "stat": "FG",
+            "value": "1.012 - 1.016"
+        },
+        {
+            "stat": "ABV",
+            "value": "4.8% - 5.4%"
+        }
+    ],
+    "commercial": "Commercial ExamplesLocal Greif, Eichhorn, Nederkeller, Hebendanz. Bottled Buttenheimer Kaiserdom Kellerbier, Kulmbacher Monchshof Kellerbier, Leikeim Kellerbier, L\u00f6wenbr\u00e4u Kellerbier, Mahr\u2019s Kellerbier, St. Georgen Kellerbier, Tucher Kellerbier Naturtrub. ",
+    "attributes": [
+        {
+            "tag": "amber-color",
+            "link": "https://dev.bjcp.org/style-tags/amber-color/"
+        },
+        {
+            "tag": "amber-lager-family",
+            "link": "https://dev.bjcp.org/style-tags/amber-lager-family/"
+        },
+        {
+            "tag": "balanced",
+            "link": "https://dev.bjcp.org/style-tags/balanced/"
+        },
+        {
+            "tag": "bottom-fermented",
+            "link": "https://dev.bjcp.org/style-tags/bottom-fermented/"
+        },
+        {
+            "tag": "central-europe",
+            "link": "https://dev.bjcp.org/style-tags/central-europe/"
+        },
+        {
+            "tag": "standard-strength",
+            "link": "https://dev.bjcp.org/style-tags/standard-strength/"
+        },
+        {
+            "tag": "traditional-style",
+            "link": "https://dev.bjcp.org/style-tags/traditional-style/"
+        }
+    ],
+    "name": "7C. Kellerbier: Amber Kellerbier ",
+    "id": "7C",
+    "categoryId": "7",
+    "category": "7. Amber Bitter European Beer ",
+    "entry-content": "\nThis category groups amber-colored, evenly balanced to bitter balanced beers of German or Austrian origin.\n"
+}

@@ -1,0 +1,73 @@
+{
+    "impression": "Overall ImpressionA pale, well-balanced, smooth German lager that is slightly stronger than the average beer with a moderate body and a mild, aromatic hop and malt character.\n",
+    "appearance": "Light gold to deep gold. Clear. Persistent white head.",
+    "aroma": "Low to medium hop aroma, typically floral, spicy, or herbal in character. Moderate grainy-sweet malt aroma. Clean fermentation profile. A slight sulfury note at the start that dissipates is not a fault, neither is a low background note of DMS.",
+    "flavor": "FlavorNeither grainy-sweet malt nor floral, spicy, or herbal hops dominate, but both are in good balance with a touch of malty sweetness, providing a smooth yet crisply refreshing beer. Balance continues through the finish and the hop bitterness lingers in aftertaste (although some examples may finish slightly sweet). Clean fermentation character. Some mineral character might be noted from the water, although it usually does not come across as an overt minerally flavor.\n",
+    "mouthfeel": "MouthfeelMedium body, medium carbonation. Smooth but crisp.\n",
+    "comments": "Sometimes known as Dortmunder or Dortmunder Export. Brewed to a slightly higher starting gravity than other light lagers, providing a firm malty body and underlying maltiness to complement the sulfate-accentuated hop bitterness. The term \u201cExport\u201d is a beer strength descriptor under German brewing tradition, and is not strictly synonymous with the \u201cDortmunder\u201d style; beer from other cities or regions can be brewed to Export strength, and labeled as such (even if not necessarily exported).",
+    "comparison": "Style ComparisonLess finishing hops and more body than a Pils but more bitter than a Helles.\n",
+    "history": "HistoryThe Dortmunder style developed in the Dortmund industrial region in the 1870s in response to pale Pilsner-type beers, it became very popular after World War II but declined in the 1970s. Other Export-class beers developed independently, and reflected a slightly stronger version of existing beers. The modern German style is typically 12-13 \u00b0P.\n",
+    "ingredients": "Characteristic IngredientsMinerally water with high levels of sulfates, carbonates and chlorides, German or Czech noble hops, Pilsner malt, German lager yeast. Newer commercial versions can contain adjuncts and hop extract.\n",
+    "statistics": [
+        {
+            "stat": "IBU",
+            "value": "20 - 30"
+        },
+        {
+            "stat": "SRM",
+            "value": "4 - 7"
+        },
+        {
+            "stat": "OG",
+            "value": "1.048 - 1.056"
+        },
+        {
+            "stat": "FG",
+            "value": "1.010 - 1.015"
+        },
+        {
+            "stat": "ABV",
+            "value": "4.8% - 6%"
+        }
+    ],
+    "commercial": "Commercial Examples DAB Original, Dortmunder Kronen, Dortmunder Union Export, Flensburger Gold, Gordon Biersch Golden Export, Great Lakes Dortmunder Gold. ",
+    "attributes": [
+        {
+            "tag": "balanced",
+            "link": "https://dev.bjcp.org/style-tags/balanced/"
+        },
+        {
+            "tag": "bottom-fermented",
+            "link": "https://dev.bjcp.org/style-tags/bottom-fermented/"
+        },
+        {
+            "tag": "central-europe",
+            "link": "https://dev.bjcp.org/style-tags/central-europe/"
+        },
+        {
+            "tag": "lagered",
+            "link": "https://dev.bjcp.org/style-tags/lagered/"
+        },
+        {
+            "tag": "pale-color",
+            "link": "https://dev.bjcp.org/style-tags/pale-color/"
+        },
+        {
+            "tag": "pale-lager-family",
+            "link": "https://dev.bjcp.org/style-tags/pale-lager-family/"
+        },
+        {
+            "tag": "standard-strength",
+            "link": "https://dev.bjcp.org/style-tags/standard-strength/"
+        },
+        {
+            "tag": "traditional-style",
+            "link": "https://dev.bjcp.org/style-tags/traditional-style/"
+        }
+    ],
+    "name": "5C. German Helles Exportbier ",
+    "id": "5C",
+    "categoryId": "5",
+    "category": "5. Pale Bitter European Beer ",
+    "entry-content": "\nThis category describes German-origin beers that are pale and have an even to bitter balance with a mild to moderately strong hoppy character featuring classic German hops. They are generally bottom-fermented or are lagered to provide a smooth profile, and are well-attenuated as are most German beers.\n"
+}

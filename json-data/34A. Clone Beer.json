@@ -1,0 +1,24 @@
+{
+    "impression": "Overall ImpressionBased on declared clone beer.\n",
+    "appearance": "",
+    "aroma": "Based on declared clone beer.",
+    "flavor": "",
+    "mouthfeel": "",
+    "comments": "Intended as a catch-all location for specific beers that are based on unique commercial examples that don\u2019t fit existing styles.",
+    "comparison": "",
+    "history": "",
+    "ingredients": "",
+    "statistics": [],
+    "commercial": "",
+    "attributes": [
+        {
+            "tag": "specialty-beer",
+            "link": "https://dev.bjcp.org/style-tags/specialty-beer/"
+        }
+    ],
+    "name": "34A. Clone Beer ",
+    "id": "34A",
+    "categoryId": "34",
+    "category": "34. Specialty Beer ",
+    "entry-content": "\nWhile there are many Specialty-Type Beers in these guidelines, the Specialty Beer category is intended for those beers that do not fit anywhere else. As the number of Specialty-Type categories is quite large, most beers are expected to be entered elsewhere unless there is something quite unusual or unique about them. Please check each other Specialty-Type category first before deciding to enter a beer in one of these styles.\n"
+}

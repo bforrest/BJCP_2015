@@ -1,0 +1,77 @@
+{
+    "impression": "Overall ImpressionA strong, rich, and very malty German lager that can have both pale and dark variants. The darker versions have more richly-developed, deeper malt flavors, while the paler versions have slightly more hops and dryness.\n",
+    "appearance": "Deep gold to dark brown in color. Darker versions often have ruby highlights. Lagering should provide good clarity. Large, creamy, persistent head (color varies with base style: white for pale versions, off-white for dark varieties). Stronger versions might have impaired head retention, and can display noticeable legs.",
+    "aroma": "Very strong maltiness. Darker versions will have significant Maillard products and often some toasty aromas. A light caramel aroma is acceptable. Lighter versions will have a strong malt presence with some Maillard products and toasty notes. Virtually no hop aroma, although a light noble hop aroma is acceptable in pale versions. A moderately low malt-derived dark fruit character may be present (but is optional) in dark versions. A very slight chocolate-like aroma may be present in darker versions, but no roasted or burned aromatics should ever be present. Moderate alcohol aroma may be present.",
+    "flavor": "FlavorVery rich and malty. Darker versions will have significant Maillard products and often some toasty flavors. Lighter versions will have a strong malt flavor with some Maillard products and toasty notes. A very slight chocolate flavor is optional in darker versions, but should never be perceived as roasty or burnt. Clean lager character. A moderately low malt-derived dark fruit character is optional in darker versions. Invariably there will be an impression of alcoholic strength, but this should be smooth and warming rather than harsh or burning. Little to no hop flavor (more is acceptable in pale versions). Hop bitterness varies from moderate to moderately low but always allows malt to dominate the flavor. Most versions are fairly malty-sweet, but should have an impression of attenuation. The sweetness comes from low hopping, not from incomplete fermentation. Paler versions generally have a drier finish.\n",
+    "mouthfeel": "MouthfeelMedium-full to full body. Moderate to moderately-low carbonation. Very smooth without harshness, astringency. A light alcohol warmth may be noted, but it should never burn.\n",
+    "comments": "Most versions are dark colored and may display the caramelizing and Maillard products of decoction mashing, but excellent pale versions also exist. The pale versions will not have the same richness and darker malt flavors of the dark versions, and may be a bit drier, hoppier and more bitter. While most traditional examples are in the lower end of the ranges cited, the style can be considered to have no upper limit for gravity, alcohol and bitterness (thus providing a home for very strong lagers).",
+    "comparison": "Style ComparisonA stronger, richer, more full-bodied version of either a Dunkles Bock or a Helles Bock. Pale versions will show higher attenuation and less dark fruity character than the darker versions.\n",
+    "history": "HistoryA Bavarian specialty first brewed in Munich by the monks of St. Francis of Paula. Historical versions were less well-attenuated than modern interpretations, with consequently higher sweetness and lower alcohol levels (and hence was considered \u201cliquid bread\u201d by the monks). The term \u201cdoppel (double) bock\u201d was coined by Munich consumers. Many commercial doppelbocks have names ending in \u201c-ator,\u201d either as a tribute to the prototypical Salvator or to take advantage of the beer\u2019s popularity. Traditionally dark brown in color; paler examples are a more recent development.\n",
+    "ingredients": "Characteristic IngredientsPils and/or Vienna malt for pale versions (with some Munich), Munich and Vienna malts for darker ones and occasionally a tiny bit of darker color malts (such as Carafa). Saazer-type hops. Clean lager yeast. Decoction mashing is traditional.\n",
+    "statistics": [
+        {
+            "stat": "IBU",
+            "value": "16 - 26"
+        },
+        {
+            "stat": "SRM",
+            "value": "6 - 25"
+        },
+        {
+            "stat": "OG",
+            "value": "1.072 - 1.112"
+        },
+        {
+            "stat": "FG",
+            "value": "1.016 - 1.024"
+        },
+        {
+            "stat": "ABV",
+            "value": "7% - 10%"
+        }
+    ],
+    "commercial": "Commercial ExamplesDark Versions Andechser Doppelbock Dunkel, Ayinger Celebrator, Paulaner Salvator, Spaten Optimator, Tr\u00f6egs Troegenator, Weihenstephaner Korbinian. Pale Versions Eggenberg Urbock 23\u00ba, EKU 28, Plank Bavarian Heller Doppelbock. ",
+    "attributes": [
+        {
+            "tag": "amber-color",
+            "link": "https://dev.bjcp.org/style-tags/amber-color/"
+        },
+        {
+            "tag": "bock-family",
+            "link": "https://dev.bjcp.org/style-tags/bock-family/"
+        },
+        {
+            "tag": "bottom-fermented",
+            "link": "https://dev.bjcp.org/style-tags/bottom-fermented/"
+        },
+        {
+            "tag": "central-europe",
+            "link": "https://dev.bjcp.org/style-tags/central-europe/"
+        },
+        {
+            "tag": "high-strength",
+            "link": "https://dev.bjcp.org/style-tags/high-strength/"
+        },
+        {
+            "tag": "lagered",
+            "link": "https://dev.bjcp.org/style-tags/lagered/"
+        },
+        {
+            "tag": "malty",
+            "link": "https://dev.bjcp.org/style-tags/malty/"
+        },
+        {
+            "tag": "pale-color",
+            "link": "https://dev.bjcp.org/style-tags/pale-color/"
+        },
+        {
+            "tag": "traditional-style",
+            "link": "https://dev.bjcp.org/style-tags/traditional-style/"
+        }
+    ],
+    "name": "9A. Doppelbock ",
+    "id": "9A",
+    "categoryId": "9",
+    "category": "9. Strong European Beer ",
+    "entry-content": "\nThis category contains more strongly flavored and higher alcohol lagers from Germany and the Baltic region. Most are dark, but some pale versions are known.\n"
+}
