@@ -66,12 +66,12 @@ def parse_attributes(domset):
 def parse_style(domset):
     appearance = "".join(get_inner_text(domset, 'appearance'))
     aroma = "".join(get_inner_text(domset, 'aroma'))
-    flavor = "".join(get_content(domset, 'flavor'))
-    mouthfeel = "".join(get_content(domset, 'mouthfeel'))
+    flavor = "".join(get_inner_text(domset, 'flavor'))
+    mouthfeel = "".join(get_inner_text(domset, 'mouthfeel'))
     comments = "".join(get_inner_text(domset, 'comments'))
-    comparison = get_content(domset, 'style-comparison')
-    history = get_content(domset, 'history')
-    ingredients = get_content(domset, 'ingredients')
+    comparison = "".join(get_inner_text(domset, 'style-comparison'))
+    history = "".join(get_inner_text(domset, 'history'))
+    ingredients = "".join(get_inner_text(domset, 'ingredients'))
 
     commercial = get_content(domset, 'commercial-examples')
     attributes = parse_attributes(domset)
